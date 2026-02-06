@@ -1,1546 +1,1170 @@
 #EXTM3U
-#EXTINF:-1,Viju+ Megahit HD
-#EXTGRP:Кино 
-http://s.only4.tv/17103/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Viju+ Premiere HD
-#EXTGRP:Кино 
-http://s.only4.tv/17104/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Viju+ Comedy HD
-#EXTGRP:Кино 
-http://s.only4.tv/17102/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Viju+ Serial HD
-#EXTGRP:Кино 
-http://s.only4.tv/0109/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Премиальное HD
-#EXTGRP:Кино 
-http://s.only4.tv/0121/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Шокирующее HD
-#EXTGRP:Кино 
-http://s.only4.tv/0119/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Комедийное HD
-#EXTGRP:Кино 
-http://s.only4.tv/0120/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Романтичное HD
-#EXTGRP:Кино 
-http://s.only4.tv/5537/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,КиноПремьера HD
-#EXTGRP:Кино 
-http://s.only4.tv/12101/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Остросюжетное HD
-#EXTGRP:Кино 
-http://s.only4.tv/0122/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,FX
-#EXTGRP:Кино 
-http://s.only4.tv/8160/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Кинеко HD
-#EXTGRP:Кино 
-http://s.only4.tv/8497/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,FX Life
-#EXTGRP:Кино 
-http://s.only4.tv/0207/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Amedia 1 HD
-#EXTGRP:Кино 
-http://s.only4.tv/6446/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Amedia Hit HD
-#EXTGRP:Кино 
-http://s.only4.tv/6448/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Amedia Hit
-#EXTGRP:Кино 
-http://s.only4.tv/2103/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,.red
-#EXTGRP:Кино 
-http://s.only4.tv/710/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,.sci-fi
-#EXTGRP:Кино 
-http://s.only4.tv/711/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,.black
-#EXTGRP:Кино 
-http://s.only4.tv/712/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,КиноХит HD
-#EXTGRP:Кино 
-http://s.only4.tv/6327/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,КиноКомедия HD
-#EXTGRP:Кино 
-http://s.only4.tv/6329/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Viju TV1000 HD
-#EXTGRP:Кино 
-http://s.only4.tv/5581/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Viju TV1000 Action HD
-#EXTGRP:Кино 
-http://s.only4.tv/6450/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Viju TV1000 Русское HD
-#EXTGRP:Кино 
-http://s.only4.tv/6324/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Viju TV1000 Новелла HD
-#EXTGRP:Кино 
-http://s.only4.tv/9849/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Viju TV1000 Romantica
-#EXTGRP:Кино 
-http://s.only4.tv/10253/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TV1000 Русское Кино
-#EXTGRP:Кино 
-http://s.only4.tv/9764/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,ТВ-3
-#EXTGRP:Кино 
-http://s.only4.tv/1008/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Go3 Films HD
-#EXTGRP:Кино 
-http://s.only4.tv/5585/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,ЕвроКино HD
-#EXTGRP:Кино 
-http://s.only4.tv/6453/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Русский Иллюзион HD
-#EXTGRP:Кино 
-http://s.only4.tv/6454/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Наше Новое Кино HD
-#EXTGRP:Кино 
-http://s.only4.tv/6331/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Любимое Кино HD
-#EXTGRP:Кино 
-http://s.only4.tv/722/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Комедия (ВГТРК)
-#EXTGRP:Кино 
-http://s.only4.tv/1115/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Русский Роман HD
-#EXTGRP:Кино 
-http://s.only4.tv/6455/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Любимое HD
-#EXTGRP:Кино 
-http://s.only4.tv/0139/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Наше HD
-#EXTGRP:Кино 
-http://s.only4.tv/0123/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Душевное HD
-#EXTGRP:Кино 
-http://s.only4.tv/0107/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,КиноСемья HD
-#EXTGRP:Кино 
-http://s.only4.tv/6326/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,КиноСерия HD
-#EXTGRP:Кино 
-http://s.only4.tv/6330/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,HTB Сериал HD
-#EXTGRP:Кино 
-http://s.only4.tv/9861/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,HTB Хит HD
-#EXTGRP:Кино 
-http://s.only4.tv/9860/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Иллюзион+ HD
-#EXTGRP:Кино 
-http://s.only4.tv/8179/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Индийское Кино
-#EXTGRP:Кино 
-http://s.only4.tv/104/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Bolt
-#EXTGRP:Кино 
-http://s.only4.tv/6188/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Дорама
-#EXTGRP:Кино 
-http://s.only4.tv/430/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Cinema
-#EXTGRP:Кино 
-http://s.only4.tv/5533/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Феникс плюс Кино HD
-#EXTGRP:Кино 
-http://s.only4.tv/9657/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,FilmBox
-#EXTGRP:Кино 
-http://s.only4.tv/5558/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,FilmBox Arthouse
-#EXTGRP:Кино 
-http://s.only4.tv/5536/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,КиноУжас HD
-#EXTGRP:Кино 
-http://s.only4.tv/5570/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Арсенал HD
-#EXTGRP:Кино 
-http://s.only4.tv/0222/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Победа
-#EXTGRP:Кино 
-http://s.only4.tv/5534/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,День Победы
-#EXTGRP:Кино 
-http://s.only4.tv/6214/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Пес HD
-#EXTGRP:Кино 
-http://s.only4.tv/10867/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Блокбастер HD
-#EXTGRP:Кино 
-http://s.only4.tv/6206/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Камеди HD
-#EXTGRP:Кино 
-http://s.only4.tv/6207/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,КиноПоказ HD
-#EXTGRP:Кино 
-http://s.only4.tv/6208/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Наш КиноПоказ HD
-#EXTGRP:Кино 
-http://s.only4.tv/6209/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Про Любовь HD
-#EXTGRP:Кино 
-http://s.only4.tv/6210/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Хит HD
-#EXTGRP:Кино 
-http://s.only4.tv/6212/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Star Family HD
-#EXTGRP:Кино 
-http://s.only4.tv/6213/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Star Cinema HD
-#EXTGRP:Кино 
-http://s.only4.tv/7841/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Киноман
-#EXTGRP:Кино 
-http://s.only4.tv/6229/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Premiere 1 HD
-#EXTGRP:Кино 
-http://s.only4.tv/6256/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Premiere 2 HD
-#EXTGRP:Кино 
-http://s.only4.tv/6257/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Premiere 3 HD
-#EXTGRP:Кино 
-http://s.only4.tv/6258/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Premiere 4 HD
-#EXTGRP:Кино 
-http://s.only4.tv/6259/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Ретро
-#EXTGRP:Кино 
-http://s.only4.tv/6263/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Наше Мужское HD
-#EXTGRP:Кино 
-http://s.only4.tv/6267/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Страшное HD
-#EXTGRP:Кино 
-http://s.only4.tv/0218/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Мосфильм (+4)
-#EXTGRP:Кино 
-http://s.only4.tv/6295/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,KinoJam 1 HD
-#EXTGRP:Кино 
-http://s.only4.tv/6509/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,KinoJam 2 HD
-#EXTGRP:Кино 
-http://s.only4.tv/6510/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,DetectiveJam HD
-#EXTGRP:Кино 
-http://s.only4.tv/9660/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,FamilyJam HD
-#EXTGRP:Кино 
-http://s.only4.tv/9661/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TOP: Cinema HD
-#EXTGRP:Кино 
-http://s.only4.tv/6804/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TOP: Mix
-#EXTGRP:Кино 
-http://s.only4.tv/6806/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Best Films HD
-#EXTGRP:Кино 
-http://s.only4.tv/6807/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Фантастика HD
-#EXTGRP:Кино 
-http://s.only4.tv/6814/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Фантастика FHD (2.0)
-#EXTGRP:Кино 
-http://s.only4.tv/8026/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Кинозал! VHS HD
-#EXTGRP:Кино 
-http://s.only4.tv/6822/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TOP: USSR
-#EXTGRP:Кино 
-http://s.only4.tv/6805/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Кинозал! СССР
-#EXTGRP:Кино 
-http://s.only4.tv/6824/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Кинозал! Интерны
-#EXTGRP:Кино 
-http://s.only4.tv/6823/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Кинозал! Сваты
-#EXTGRP:Кино 
-http://s.only4.tv/6825/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Кинозал! Универ
-#EXTGRP:Кино 
-http://s.only4.tv/6827/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Кинозал! ХИТ HD
-#EXTGRP:Кино 
-http://s.only4.tv/6828/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Ольга HD
-#EXTGRP:Кино 
-http://s.only4.tv/8348/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Страх HD
-#EXTGRP:Кино 
-http://s.only4.tv/6832/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Страх FHD (2.0)
-#EXTGRP:Кино 
-http://s.only4.tv/8505/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Кинодром
-#EXTGRP:Кино 
-http://s.only4.tv/8247/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,CineMan
-#EXTGRP:Кино 
-http://s.only4.tv/6837/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,CineMan РуКино
-#EXTGRP:Кино 
-http://s.only4.tv/6838/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,CineMan Top
-#EXTGRP:Кино 
-http://s.only4.tv/6839/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,CineMan Thriller
-#EXTGRP:Кино 
-http://s.only4.tv/6840/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,CineMan Marvel
-#EXTGRP:Кино 
-http://s.only4.tv/6841/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,CineMan Action
-#EXTGRP:Кино 
-http://s.only4.tv/6855/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,CineMan Мелодрама
-#EXTGRP:Кино 
-http://s.only4.tv/6856/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,CineMan Ужасы
-#EXTGRP:Кино 
-http://s.only4.tv/6914/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,CineMan Комедия
-#EXTGRP:Кино 
-http://s.only4.tv/6915/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,CineMan Ментовские Войны
-#EXTGRP:Кино 
-http://s.only4.tv/7659/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,CineMan Пёс+Лихач
-#EXTGRP:Кино 
-http://s.only4.tv/7660/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,CineMan Лесник
-#EXTGRP:Кино 
-http://s.only4.tv/7661/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,CineMan Военные Сериалы
-#EXTGRP:Кино 
-http://s.only4.tv/10292/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Trash HD
-#EXTGRP:Кино 
-http://s.only4.tv/6853/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Yosso TV Grand
-#EXTGRP:Кино 
-http://s.only4.tv/7185/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Yosso TV Русские Фильмы
-#EXTGRP:Кино 
-http://s.only4.tv/7188/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Yosso TV New Кино
-#EXTGRP:Кино 
-http://s.only4.tv/7191/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Yosso TV Oblivion
-#EXTGRP:Кино 
-http://s.only4.tv/7537/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Yosso TV Netflix
-#EXTGRP:Кино 
-http://s.only4.tv/8756/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,C-Marvel HD
-#EXTGRP:Кино 
-http://s.only4.tv/7639/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Plan B
-#EXTGRP:Кино 
-http://s.only4.tv/7665/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Plan B HD
-#EXTGRP:Кино 
-http://s.only4.tv/7648/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Dorama+ HD
-#EXTGRP:Кино 
-http://s.only4.tv/7704/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Start Air HD
-#EXTGRP:Кино 
-http://s.only4.tv/8029/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Start World HD
-#EXTGRP:Кино 
-http://s.only4.tv/8030/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,KLI Action HD
-#EXTGRP:Кино 
-http://s.only4.tv/2013/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,KLI Новинки HD
-#EXTGRP:Кино 
-http://s.only4.tv/8855/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,KLI Полицейский с Рублёвки
-#EXTGRP:Кино 
-http://s.only4.tv/11201/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Домашний HD
-#EXTGRP:Кино 
-http://s.only4.tv/6254/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Суббота HD
-#EXTGRP:Кино 
-http://s.only4.tv/6464/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Индийское Кино
-#EXTGRP:Кино 
-http://s.only4.tv/9221/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Игра Престолов HD
-#EXTGRP:Кино 
-http://s.only4.tv/9222/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Лихие 90е Кино
-#EXTGRP:Кино 
-http://s.only4.tv/9253/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Новинки RUS HD
-#EXTGRP:Кино 
-http://s.only4.tv/9254/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Новинки МИР HD
-#EXTGRP:Кино 
-http://s.only4.tv/9255/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Аниме HD
-#EXTGRP:Кино 
-http://s.only4.tv/9377/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Детское Кино HD
-#EXTGRP:Кино 
-http://s.only4.tv/10852/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Михаил Галустян
-#EXTGRP:Кино 
-http://s.only4.tv/11157/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Mortal Kombat HD
-#EXTGRP:Кино 
-http://s.only4.tv/11345/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Romance HD
-#EXTGRP:Кино 
-http://s.only4.tv/9654/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Suspense HD
-#EXTGRP:Кино 
-http://s.only4.tv/9655/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Scream HD
-#EXTGRP:Кино 
-http://s.only4.tv/9662/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Лавстори HD
-#EXTGRP:Кино 
-http://s.only4.tv/9682/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Кино 1 International
-#EXTGRP:Кино 
-http://s.only4.tv/10820/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Детское Кино International
-#EXTGRP:Кино 
-http://s.only4.tv/10821/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Мосфильм. Золотая коллекция
-#EXTGRP:Кино 
-http://s.only4.tv/11125/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Честный Детектив
-#EXTGRP:Кино 
-http://s.only4.tv/11163/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,OK TV - КиноСказка СССР
-#EXTGRP:Кино 
-http://s.only4.tv/11319/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BCU Action HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/6274/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BCU Fantastic HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/6278/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BCU Premiere HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/6282/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BCU Russian HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/6284/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BCU Premiere 1 HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/6286/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BCU Premiere 2 HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/6287/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BCU Premiere 3 HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/6288/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BCU FilMystic HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/6294/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BCU Criminal HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/6642/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM NewFilm 1 HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/7126/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM NewFilm 2 HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/7127/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM NewFilm 3 HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/7128/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM NewFilm RU HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/7129/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM Боевик HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/7144/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM Кунг-Фу HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/7157/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM Приключения HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/7165/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM Семейный 2 HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/7169/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM Спорт HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/7172/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Fresh Cinema
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8069/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Fresh Comedy
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8071/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Fresh Premiere
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8072/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Fresh Family
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8073/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Fresh Fantastic
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8076/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Magic Action
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8107/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Magic Premiere
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/10568/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,KinoLiving HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8146/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Eye Media
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8202/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Eye Oscar
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8203/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Eye Drive
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8210/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Eye Cyber
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8211/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MyTV
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8212/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MyTV 2
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8213/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MyTV 3
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8214/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MyTV Hit
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8215/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Kion Хит HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8217/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BOX Franchise HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8709/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BOX Anime HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8711/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,4Ever Cinema HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8817/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Семейное Кино HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/9141/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Премиум Кино HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/9143/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Кино Сериал HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/10802/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Кино Драма HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/10801/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Velilla TV Action War Films HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/9443/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Velilla TV Кухня + Отель «Элеон» HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/10768/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,KBC-Comics
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/6566/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,KBC-NewFilm
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/6570/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,KBC-Гоблин
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8242/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,KBC-Аниме
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/6638/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,VeleS Аниме
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/9526/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,VeleS Семейный
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/9528/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,VeleS Гоблин
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/10372/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Kernel TV Новинки
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/10605/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Анекдот ТВ
-#EXTGRP:Разное 
-http://s.only4.tv/5524/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,GagsNetwork
-#EXTGRP:Разное 
-http://s.only4.tv/6875/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Перец Int.
-#EXTGRP:Разное 
-http://s.only4.tv/6919/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Game Toon HD
-#EXTGRP:Разное 
-http://s.only4.tv/8131/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Z! Fun HD
-#EXTGRP:Разное 
-http://s.only4.tv/8256/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,VB Назад в СССР
-#EXTGRP:Разное 
-http://s.only4.tv/8742/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,PlayBoyz TV HD
-#EXTGRP:Разное 
-http://s.only4.tv/9039/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Скетч-Шоу
-#EXTGRP:Разное 
-http://s.only4.tv/9229/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Фитиль
-#EXTGRP:Разное 
-http://s.only4.tv/11179/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,KBC+100500 (18+)
-#EXTGRP:Разное 
-http://s.only4.tv/9513/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Конгресс ТВ HD
-#EXTGRP:Разное 
-http://s.only4.tv/9668/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Curiosity Stream HD
-#EXTGRP:Разное 
-http://s.only4.tv/9670/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1, KLI Битва Экстрасенсов
-#EXTGRP:Разное 
-http://s.only4.tv/9980/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Play-X Уральские Пельмени HD
-#EXTGRP:Разное 
-http://s.only4.tv/10951/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Матч! Футбол 2 HD
-#EXTGRP:Спорт 
-http://s.only4.tv/1401/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Телеканал Футбол HD
-#EXTGRP:Спорт 
-http://s.only4.tv/7988/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Матч! Премьер
-#EXTGRP:Спорт 
-http://s.only4.tv/1423/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Матч! Боец HD
-#EXTGRP:Спорт 
-http://s.only4.tv/10679/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Матч! Планета
-#EXTGRP:Спорт 
-http://s.only4.tv/5528/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Бокс ТВ HD
-#EXTGRP:Спорт 
-http://s.only4.tv/8824/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Russian Extreme HD
-#EXTGRP:Спорт 
-http://s.only4.tv/0143/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Viju+ Sport HD
-#EXTGRP:Спорт 
-http://s.only4.tv/5568/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Конный Мир HD
-#EXTGRP:Спорт 
-http://s.only4.tv/0150/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Setanta Sports 1 HD
-#EXTGRP:Спорт 
-http://s.only4.tv/5509/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Setanta Sports 2 HD
-#EXTGRP:Спорт 
-http://s.only4.tv/5510/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,ММА ТВ HD
-#EXTGRP:Спорт 
-http://s.only4.tv/1325/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Мир Баскетбола HD
-#EXTGRP:Спорт 
-http://s.only4.tv/9664/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,FightBox
-#EXTGRP:Спорт 
-http://s.only4.tv/5529/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Fast and FunBox HD
-#EXTGRP:Спорт 
-http://s.only4.tv/5530/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Удар HD
-#EXTGRP:Спорт 
-http://s.only4.tv/5532/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Драйв
-#EXTGRP:Спорт 
-http://s.only4.tv/5563/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Старт HD
-#EXTGRP:Спорт 
-http://s.only4.tv/6261/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Старт Триумф
-#EXTGRP:Спорт 
-http://s.only4.tv/9663/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Хоккей ТВ HD
-#EXTGRP:Спорт 
-http://s.only4.tv/6511/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,WWE Russian
-#EXTGRP:Спорт 
-http://s.only4.tv/6817/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MMA Time HD
-#EXTGRP:Спорт 
-http://s.only4.tv/8132/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,EuroSport 1 CEE HD
-#EXTGRP:Спорт 
-http://s.only4.tv/7206/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,EuroSport 2 CEE HD
-#EXTGRP:Спорт 
-http://s.only4.tv/7207/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Trace Sport Stars HD
-#EXTGRP:Спорт 
-http://s.only4.tv/7700/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,QazSport HD
-#EXTGRP:Спорт 
-http://s.only4.tv/7728/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Q Sport League HD
-#EXTGRP:Спорт 
-http://s.only4.tv/7730/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,UFC Fight Pass HD
-#EXTGRP:Спорт 
-http://s.only4.tv/7913/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Матч! Страна HD
-#EXTGRP:Спорт 
-http://s.only4.tv/8014/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,ТВ Спорт HD
-#EXTGRP:Спорт 
-http://s.only4.tv/8191/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Fint GA 1
-#EXTGRP:Спорт 
-http://s.only4.tv/8516/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Fint GA 2
-#EXTGRP:Спорт 
-http://s.only4.tv/8517/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Fint GA 3
-#EXTGRP:Спорт 
-http://s.only4.tv/8518/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Fint GA 4
-#EXTGRP:Спорт 
-http://s.only4.tv/8602/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Pimple TV 1
-#EXTGRP:Спорт 
-http://s.only4.tv/8519/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Pimple TV 2
-#EXTGRP:Спорт 
-http://s.only4.tv/8520/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Pimple TV 3
-#EXTGRP:Спорт 
-http://s.only4.tv/8521/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Pimple TV 4
-#EXTGRP:Спорт 
-http://s.only4.tv/8522/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Pimple TV 5
-#EXTGRP:Спорт 
-http://s.only4.tv/8523/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Pimple TV 6
-#EXTGRP:Спорт 
-http://s.only4.tv/8753/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Живи Активно HD
-#EXTGRP:Спорт 
-http://s.only4.tv/9259/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,CineMan Фитнес
-#EXTGRP:Спорт 
-http://s.only4.tv/9365/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Velilla TV Legendary Matches HD
-#EXTGRP:Спорт 
-http://s.only4.tv/10137/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Velilla TV FIFA Club World Cup 2025 HD
-#EXTGRP:Спорт 
-http://s.only4.tv/11212/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Окко Спорт HD
-#EXTGRP:Спорт 
-http://s.only4.tv/10250/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Окко Футбол HD
-#EXTGRP:Спорт 
-http://s.only4.tv/10251/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Окко Прайм Спорт HD
-#EXTGRP:Спорт 
-http://s.only4.tv/10849/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Sport Plus HD
-#EXTGRP:Спорт 
-http://s.only4.tv/10796/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Q Football HD
-#EXTGRP:Спорт 
-http://s.only4.tv/10808/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Q Live 1 HD
-#EXTGRP:Спорт 
-http://s.only4.tv/10809/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Q Live 2 HD
-#EXTGRP:Спорт 
-http://s.only4.tv/10810/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Q Live 3 HD
-#EXTGRP:Спорт 
-http://s.only4.tv/10811/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Q Live 4 HD
-#EXTGRP:Спорт 
-http://s.only4.tv/10812/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Real Madrid TV (UK)
-#EXTGRP:Спорт 
-http://s.only4.tv/10823/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Real Madrid TV (ESP)
-#EXTGRP:Спорт 
-http://s.only4.tv/10824/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Play-X Баскетбол USA HD
-#EXTGRP:Спорт 
-http://s.only4.tv/10988/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Nickelodeon HD
-#EXTGRP:Детские 
-http://s.only4.tv/14106/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Da Vinci
-#EXTGRP:Детские 
-http://s.only4.tv/19101/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Капитан Фантастика
-#EXTGRP:Детские 
-http://s.only4.tv/0148/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Карусель
-#EXTGRP:Детские 
-http://s.only4.tv/822/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TiJi 
-#EXTGRP:Детские 
-http://s.only4.tv/2121/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Cartoon Network
-#EXTGRP:Детские 
-http://s.only4.tv/802/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Cartoonito
-#EXTGRP:Детские 
-http://s.only4.tv/821/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Gulli Girl
-#EXTGRP:Детские 
-http://s.only4.tv/2122/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Солнце (RU)
-#EXTGRP:Детские 
-http://s.only4.tv/1312/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,2х2
-#EXTGRP:Детские 
-http://s.only4.tv/1826/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,СТС Kids
-#EXTGRP:Детские 
-http://s.only4.tv/5571/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,FAN HD
-#EXTGRP:Детские 
-http://s.only4.tv/6304/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Смайл ТВ
-#EXTGRP:Детские 
-http://s.only4.tv/6546/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Уникум
-#EXTGRP:Детские 
-http://s.only4.tv/1112/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,NickToons
-#EXTGRP:Детские 
-http://s.only4.tv/1327/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,СуперГерои
-#EXTGRP:Детские 
-http://s.only4.tv/122/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Cartoons Big
-#EXTGRP:Детские 
-http://s.only4.tv/6836/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Cartoons Short
-#EXTGRP:Детские 
-http://s.only4.tv/6835/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Cartoons 90
-#EXTGRP:Детские 
-http://s.only4.tv/6834/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Кроха ТВ
-#EXTGRP:Детские 
-http://s.only4.tv/6830/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Веселая Карусель HD
-#EXTGRP:Детские 
-http://s.only4.tv/6818/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,YOSSO TV Kids
-#EXTGRP:Детские 
-http://s.only4.tv/7187/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,YOSSO TV Disney
-#EXTGRP:Детские 
-http://s.only4.tv/8757/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,YOSSO TV СоюзМульт
-#EXTGRP:Детские 
-http://s.only4.tv/7192/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,CineMan Симпсоны
-#EXTGRP:Детские 
-http://s.only4.tv/7228/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Z! Smile HD
-#EXTGRP:Детские 
-http://s.only4.tv/7589/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,C-Cartoon HD
-#EXTGRP:Детские 
-http://s.only4.tv/7638/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BCU Kids HD
-#EXTGRP:Детские 
-http://s.only4.tv/6291/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BCU Kids+ HD
-#EXTGRP:Детские 
-http://s.only4.tv/6323/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BCU Multserial HD
-#EXTGRP:Детские 
-http://s.only4.tv/6290/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM Walt Disney HD
-#EXTGRP:Детские 
-http://s.only4.tv/7234/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BCU Little HD
-#EXTGRP:Детские 
-http://s.only4.tv/8063/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM Tom and Jerry HD
-#EXTGRP:Детские 
-http://s.only4.tv/7131/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM USSR Мультфильм HD
-#EXTGRP:Детские 
-http://s.only4.tv/7136/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM USSR Сказки HD
-#EXTGRP:Детские 
-http://s.only4.tv/7137/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM Honey HD
-#EXTGRP:Детские 
-http://s.only4.tv/7142/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM Lesson HD
-#EXTGRP:Детские 
-http://s.only4.tv/7158/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM Smile HD
-#EXTGRP:Детские 
-http://s.only4.tv/7159/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM Гриффины HD
-#EXTGRP:Детские 
-http://s.only4.tv/8232/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1, KLI Простоквашино
-#EXTGRP:Детские 
-http://s.only4.tv/8041/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,KBC-Family Animation
-#EXTGRP:Детские 
-http://s.only4.tv/6567/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,KBC-Союз МультЗал
-#EXTGRP:Детские 
-http://s.only4.tv/6578/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,KBC-Сказочный Remake HD
-#EXTGRP:Детские 
-http://s.only4.tv/10254/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Fresh Kids
-#EXTGRP:Детские 
-http://s.only4.tv/8070/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Magic Disney
-#EXTGRP:Детские 
-http://s.only4.tv/8104/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Ералаш HD
-#EXTGRP:Детские 
-http://s.only4.tv/8115/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Том и Джерри
-#EXTGRP:Детские 
-http://s.only4.tv/8116/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Duck
-#EXTGRP:Детские 
-http://s.only4.tv/8151/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Duck HD
-#EXTGRP:Детские 
-http://s.only4.tv/8152/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Duck Plus HD
-#EXTGRP:Детские 
-http://s.only4.tv/8153/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MyTV Kids
-#EXTGRP:Детские 
-http://s.only4.tv/8216/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Рыжий
-#EXTGRP:Детские 
-http://s.only4.tv/8418/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Репка HD
-#EXTGRP:Детские 
-http://s.only4.tv/9041/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Ералаш
-#EXTGRP:Детские 
-http://s.only4.tv/9224/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Лапки Live
-#EXTGRP:Детские 
-http://s.only4.tv/9401/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Cartoon Classics
-#EXTGRP:Детские 
-http://s.only4.tv/9665/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Леди Баг и Супер Кот
-#EXTGRP:Детские 
-http://s.only4.tv/9812/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Советские Мультфильмы HD
-#EXTGRP:Детские 
-http://s.only4.tv/9376/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Микки Маус HD
-#EXTGRP:Детские 
-http://s.only4.tv/11049/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Kernel TV Аниме
-#EXTGRP:Детские 
-http://s.only4.tv/10571/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Kernel TV Буба
-#EXTGRP:Детские 
-http://s.only4.tv/10574/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Kernel TV Маша и Медведь
-#EXTGRP:Детские 
-http://s.only4.tv/10601/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Kernel TV Ми-ми-Мишки
-#EXTGRP:Детские 
-http://s.only4.tv/10602/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Kernel TV Щенячий Патруль
-#EXTGRP:Детские 
-http://s.only4.tv/10607/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Kernel TV Русалочка
-#EXTGRP:Детские 
-http://s.only4.tv/10608/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Kernel TV Смешарики
-#EXTGRP:Детские 
-http://s.only4.tv/10609/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Kernel TV Сонник Бум
-#EXTGRP:Детские 
-http://s.only4.tv/10610/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Kernel TV Тимон и Пумба
-#EXTGRP:Детские 
-http://s.only4.tv/10614/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Kernel TV Три Кота
-#EXTGRP:Детские 
-http://s.only4.tv/10616/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Kernel TV Команда Турбо
-#EXTGRP:Детские 
-http://s.only4.tv/10617/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Baby Time
-#EXTGRP:Детские 
-http://s.only4.tv/10697/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Мульт-Stream HD
-#EXTGRP:Детские 
-http://s.only4.tv/10881/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Kids TV HD
-#EXTGRP:Детские 
-http://s.only4.tv/10882/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Чебур ТВ - МультЭпоха СССР
-#EXTGRP:Детские 
-http://s.only4.tv/11316/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,CHD-TV СоюзМультфильм
-#EXTGRP:Детские 
-http://s.only4.tv/11391/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,History 2 HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/0205/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,National Geographic HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/0203/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,National Geographic Wild HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/20101/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,National Geographic Wild
-#EXTGRP:Познавательные 
-http://s.only4.tv/19116/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Travel Channel HD CEE
-#EXTGRP:Познавательные 
-http://s.only4.tv/26006/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Приключения HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/0136/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Первый Космический
-#EXTGRP:Познавательные 
-http://s.only4.tv/0145/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Охотник и Рыболов HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/0144/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Discovery Channel HD CEE
-#EXTGRP:Познавательные 
-http://s.only4.tv/12105/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Animal Planet HD CEE
-#EXTGRP:Познавательные 
-http://s.only4.tv/2202/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Travel+Adventure HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/713/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Дикий
-#EXTGRP:Познавательные 
-http://s.only4.tv/2128/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Живая Природа HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/0217/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Viju Nature HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/6458/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Viju+ Planet HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/17105/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Viju History HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/6459/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Viju Explore HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/6460/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TLC PAN
-#EXTGRP:Познавательные 
-http://s.only4.tv/815/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Food Network
-#EXTGRP:Познавательные 
-http://s.only4.tv/416/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,365 Дней ТВ
-#EXTGRP:Познавательные 
-http://s.only4.tv/101/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,English Club
-#EXTGRP:Познавательные 
-http://s.only4.tv/5527/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Оружие
-#EXTGRP:Познавательные 
-http://s.only4.tv/5565/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Т-24
-#EXTGRP:Познавательные 
-http://s.only4.tv/5566/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Глазами Туриста HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/0252/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Авто 24 HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/10711/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Авто Плюс HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/10710/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Кухня HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/9679/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Еда
-#EXTGRP:Познавательные 
-http://s.only4.tv/9678/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Тайны Галактики HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/7941/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,В Мире Животных HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/5599/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Поехали!
-#EXTGRP:Познавательные 
-http://s.only4.tv/805/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Большая Азия HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/6306/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Космо HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/6829/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Юнит HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/6810/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Загородный Int. HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/6880/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Первый Космический HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/7703/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Investigation Discovery HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/7707/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Viasat Nature CEE
-#EXTGRP:Познавательные 
-http://s.only4.tv/10686/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,History CEE HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/7747/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM МикроМир HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/8054/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM МакроМир HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/8055/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM МегаМир HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/8056/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM Experiment HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/8230/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM Открытия HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/8233/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Food Time HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/0137/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Здоровое ТВ
-#EXTGRP:Познавательные 
-http://s.only4.tv/6265/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Доктор HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/7702/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Вопросы и Ответы
-#EXTGRP:Познавательные 
-http://s.only4.tv/6262/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Зал Суда
-#EXTGRP:Познавательные 
-http://s.only4.tv/6512/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,DocuBox HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/8124/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Nautical Channel HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/8143/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Мир Вокруг HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/8174/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Наша Тема HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/8177/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Психология 21
-#EXTGRP:Познавательные 
-http://s.only4.tv/8192/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Пятница HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/5562/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Теледом ТВ
-#EXTGRP:Познавательные 
-http://s.only4.tv/8010/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,HTB Стиль HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/9830/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Big Planet HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/9671/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Телепутешествия
-#EXTGRP:Познавательные 
-http://s.only4.tv/8796/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Криминальное HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/8841/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Travel XP HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/8974/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Yosso TV Food
-#EXTGRP:Познавательные 
-http://s.only4.tv/9248/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Yosso TV Science
-#EXTGRP:Познавательные 
-http://s.only4.tv/9249/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Театр
-#EXTGRP:Познавательные 
-http://s.only4.tv/9261/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,CineMan Air Crash
-#EXTGRP:Познавательные 
-http://s.only4.tv/9685/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,The Explorers HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/9673/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Неизвестная Россия HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/9674/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Следствие Вели
-#EXTGRP:Познавательные 
-http://s.only4.tv/9810/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,RAZ 1 HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/9831/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,RAZ 2 HD
-#EXTGRP:Познавательные 
-http://s.only4.tv/9832/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Infiniti: Между Молотом и Наковальней
-#EXTGRP:Познавательные 
-http://s.only4.tv/9960/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Орел и Решка
-#EXTGRP:Познавательные 
-http://s.only4.tv/10695/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Рыболов
-#EXTGRP:Познавательные 
-http://s.only4.tv/10709/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Зоо ТВ
-#EXTGRP:Познавательные 
-http://s.only4.tv/10713/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MTV Europe
-#EXTGRP:Музыка 
-http://s.only4.tv/810/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MTV Base
-#EXTGRP:Музыка 
-http://s.only4.tv/10041/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MTV Idol
-#EXTGRP:Музыка 
-http://s.only4.tv/10039/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Музыка Первого
-#EXTGRP:Музыка 
-http://s.only4.tv/823/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Europa Plus TV
-#EXTGRP:Музыка 
-http://s.only4.tv/103/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Bridge TV Hits
-#EXTGRP:Музыка 
-http://s.only4.tv/1818/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Bridge TV Русский Хит
-#EXTGRP:Музыка 
-http://s.only4.tv/2119/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Bridge TV Classic
-#EXTGRP:Музыка 
-http://s.only4.tv/2118/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,FON Music HD
-#EXTGRP:Музыка 
-http://s.only4.tv/7536/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MCM Top
-#EXTGRP:Музыка 
-http://s.only4.tv/1809/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Шансон ТВ
-#EXTGRP:Музыка 
-http://s.only4.tv/724/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Жара HD
-#EXTGRP:Музыка 
-http://s.only4.tv/6462/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Mezzo Live HD
-#EXTGRP:Музыка 
-http://s.only4.tv/20103/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,1HD Music
-#EXTGRP:Музыка 
-http://s.only4.tv/0256/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,RU.TV HD
-#EXTGRP:Музыка 
-http://s.only4.tv/6516/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Russian Music Box
-#EXTGRP:Музыка 
-http://s.only4.tv/6518/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Матур ТВ HD
-#EXTGRP:Музыка 
-http://s.only4.tv/6531/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,KBC-Наш Rock
-#EXTGRP:Музыка 
-http://s.only4.tv/6639/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Bridge TV Шлягер
-#EXTGRP:Музыка 
-http://s.only4.tv/6872/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Bridge TV Rock
-#EXTGRP:Музыка 
-http://s.only4.tv/7697/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,AIVA HD
-#EXTGRP:Музыка 
-http://s.only4.tv/6881/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,VIVA TV Russia HD
-#EXTGRP:Музыка 
-http://s.only4.tv/6869/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,YOSSO TV Music Hits
-#EXTGRP:Музыка 
-http://s.only4.tv/7193/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Z! Rock HD
-#EXTGRP:Музыка 
-http://s.only4.tv/7591/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,InRating TV
-#EXTGRP:Музыка 
-http://s.only4.tv/7649/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Первый Музыкальный HD
-#EXTGRP:Музыка 
-http://s.only4.tv/7651/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Первый Музыкальный HD (RU)
-#EXTGRP:Музыка 
-http://s.only4.tv/7653/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Радио Шансон ТВ HD
-#EXTGRP:Музыка 
-http://s.only4.tv/7682/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Music Box Gold
-#EXTGRP:Музыка 
-http://s.only4.tv/7724/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM Relax HD
-#EXTGRP:Музыка 
-http://s.only4.tv/7232/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MM Rock HD
-#EXTGRP:Музыка 
-http://s.only4.tv/7130/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,НАШЕ Music HD
-#EXTGRP:Музыка 
-http://s.only4.tv/8139/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Trace Urban HD
-#EXTGRP:Музыка 
-http://s.only4.tv/8178/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,VB Русская Попса 80х-90х
-#EXTGRP:Музыка 
-http://s.only4.tv/8272/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,VB Russian Dance Hits of 90s
-#EXTGRP:Музыка 
-http://s.only4.tv/8273/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,VB Dance Hits of 90s
-#EXTGRP:Музыка 
-http://s.only4.tv/8274/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BOX RU.RAP HD
-#EXTGRP:Музыка 
-http://s.only4.tv/8755/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,V2 Beat TV
-#EXTGRP:Музыка 
-http://s.only4.tv/8868/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,NOW 70s
-#EXTGRP:Музыка 
-http://s.only4.tv/8872/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,NOW 80s
-#EXTGRP:Музыка 
-http://s.only4.tv/8873/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,NOW Rock
-#EXTGRP:Музыка 
-http://s.only4.tv/8874/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,4Fun TV
-#EXTGRP:Музыка 
-http://s.only4.tv/8876/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,m2o TV
-#EXTGRP:Музыка 
-http://s.only4.tv/8880/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,4 You TV
-#EXTGRP:Музыка 
-http://s.only4.tv/8890/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Muzzik TV
-#EXTGRP:Музыка 
-http://s.only4.tv/8928/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Muzzik FlashBack 
-#EXTGRP:Музыка 
-http://s.only4.tv/8930/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Muzzik Mix
-#EXTGRP:Музыка 
-http://s.only4.tv/8933/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Muzzik TikTak
-#EXTGRP:Музыка 
-http://s.only4.tv/8936/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BOX Metall HD
-#EXTGRP:Музыка 
-http://s.only4.tv/8947/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Высоцкий HD
-#EXTGRP:Музыка 
-http://s.only4.tv/9219/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,TVPlay Русский Рок HD
-#EXTGRP:Музыка 
-http://s.only4.tv/9236/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Music Box HD (UA)
-#EXTGRP:Музыка 
-http://s.only4.tv/10701/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Yosso TV Шансон
-#EXTGRP:Музыка 
-http://s.only4.tv/10782/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Хабар 24 HD [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/7612/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Almaty TV [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/6864/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,7 канал [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/7598/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,31 канал (Алва ТВ) [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/7599/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Туран ТВ [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/7600/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Жетысу [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/7604/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Новое ТВ [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/7606/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Atameken Business TV [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/7608/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Первый канал (Евразия) [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/6543/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,КТК [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/7613/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Мir +3 [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/7614/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,MTRK [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/7615/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Астана [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/7617/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Balapan [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/8964/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Хабар [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/8966/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,РЕН ТВ Int [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/8972/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Jibek Joly [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9101/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Айгак [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9106/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Алау ТВ [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9107/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Ирбис ТВ [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9108/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Рика ТВ [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9109/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Qostanai [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9111/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Altai [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9113/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Atyray [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9114/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Твоё ТВ [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9115/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Той думан [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9116/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Koktem [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9117/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,QazSport HD [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9118/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Saryarqa [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9119/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Jambyl [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9120/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Qyzylorda [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9121/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Mangystay [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9122/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Ertis [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9123/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Ulytau HD [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9125/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Setanta Sports 1 HD [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9126/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Setanta Sports KZ HD [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9128/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Setanta Sports KZ+ HD [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/10798/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Caspian News [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9129/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Кино Драма HD [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9130/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Кино Сериал HD [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9131/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Abai TV [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9135/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Туркестан [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9136/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,ТНТ International HD [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9137/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Tiji [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9138/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Nick Jr. [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9144/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Otyrar [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/9145/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Show TV [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/10797/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,77 TV [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/10803/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Ontustik [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/10806/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Qyzyljar [KZ]
-#EXTGRP:Казахские 
-http://s.only4.tv/10807/video.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино БезГраниц" tvg-id="vip-megahit" tvg-logo="http://1lot.tv/ch/17103.png" ,Viju+ Megahit HD
+http://s.only4.tv/17103/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="vip-premiere" tvg-logo="http://1lot.tv/ch/17104.png" ,Viju+ Premiere HD
+http://s.only4.tv/17104/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="vip-comedy" tvg-logo="http://1lot.tv/ch/17102.png" ,Viju+ Comedy HD
+http://s.only4.tv/17102/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="vip-serial" tvg-logo="http://1lot.tv/ch/0109.png" ,Viju+ Serial HD
+http://s.only4.tv/0109/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="premialnoe-hd" tvg-logo="http://1lot.tv/ch/0121.png" ,Премиальное HD
+http://s.only4.tv/0121/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="shokiruyushchee-hd" tvg-logo="http://1lot.tv/ch/0119.png" ,Шокирующее HD
+http://s.only4.tv/0119/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd" tvg-logo="http://1lot.tv/ch/0120.png" ,Комедийное HD
+http://s.only4.tv/0120/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="romantichnoe" tvg-logo="http://1lot.tv/ch/5537.png" ,Романтичное HD
+http://s.only4.tv/5537/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd" tvg-logo="http://1lot.tv/ch/12101.png" ,КиноПремьера HD
+http://s.only4.tv/12101/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="ostrosiuzhetnoe-hd" tvg-logo="http://1lot.tv/ch/0122.png" ,Остросюжетное HD
+http://s.only4.tv/0122/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="fox" tvg-logo="http://1lot.tv/ch/8160.png" ,FX
+http://s.only4.tv/8160/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="kineko" tvg-logo="http://1lot.tv/ch/8497.png" ,Кинеко HD
+http://s.only4.tv/8497/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="foxlife" tvg-logo="http://1lot.tv/ch/0207.png" ,FX Life
+http://s.only4.tv/0207/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="amedia1" tvg-logo="http://1lot.tv/ch/6446.png" ,Amedia 1 HD
+http://s.only4.tv/6446/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="amedia-hit" tvg-logo="http://1lot.tv/ch/6448.png" ,Amedia Hit HD
+http://s.only4.tv/6448/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="sony-tv" tvg-logo="http://1lot.tv/ch/710.png" ,.red
+http://s.only4.tv/710/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="sony-scifi" tvg-logo="http://1lot.tv/ch/711.png" ,.sci-fi
+http://s.only4.tv/711/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="sony-turbo" tvg-logo="http://1lot.tv/ch/712.png" ,.black
+http://s.only4.tv/712/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="kinoxit" tvg-logo="http://1lot.tv/ch/6327.png" ,КиноХит HD
+http://s.only4.tv/6327/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="kinokomedia" tvg-logo="http://1lot.tv/ch/6329.png" ,КиноКомедия HD
+http://s.only4.tv/6329/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000" tvg-logo="http://1lot.tv/ch/5581.png" ,Viju TV1000 HD
+http://s.only4.tv/5581/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000-action" tvg-logo="http://1lot.tv/ch/6450.png" ,Viju TV1000 Action HD
+http://s.only4.tv/6450/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000-russkoe-kino" tvg-logo="http://1lot.tv/ch/6324.png" ,Viju TV1000 Русское HD
+http://s.only4.tv/6324/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="viju-tv1000-novella" tvg-logo="http://1lot.tv/ch/9849.png" ,Viju TV1000 Новелла HD
+http://s.only4.tv/9849/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="viju-tv1000-romantica" tvg-logo="http://1lot.tv/ch/10253.png" ,Viju TV1000 Romantica
+http://s.only4.tv/10253/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="evrokino" tvg-logo="http://1lot.tv/ch/6453.png" ,ЕвроКино HD
+http://s.only4.tv/6453/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="russky-illuzion" tvg-logo="http://1lot.tv/ch/6454.png" ,Русский Иллюзион HD
+http://s.only4.tv/6454/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino" tvg-logo="http://1lot.tv/ch/6331.png" ,Наше Новое Кино HD
+http://s.only4.tv/6331/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="lubimoe-kino" tvg-logo="http://1lot.tv/ch/722.png" ,Любимое Кино HD
+http://s.only4.tv/722/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="russky-roman" tvg-logo="http://1lot.tv/ch/6455.png" ,Русский Роман HD
+http://s.only4.tv/6455/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="nashe-lubimoe-hd" tvg-logo="http://1lot.tv/ch/0139.png" ,Любимое HD
+http://s.only4.tv/0139/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="nashehd" tvg-logo="http://1lot.tv/ch/0123.png" ,Наше HD
+http://s.only4.tv/0123/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="dushevnoe-hd" tvg-logo="http://1lot.tv/ch/0107.png" ,Душевное HD
+http://s.only4.tv/0107/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="kinosemiya" tvg-logo="http://1lot.tv/ch/6326.png" ,КиноСемья HD
+http://s.only4.tv/6326/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="kinoseria" tvg-logo="http://1lot.tv/ch/6330.png" ,КиноСерия HD
+http://s.only4.tv/6330/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="ntv-serial" tvg-logo="http://1lot.tv/ch/9861.png" ,HTB Сериал HD
+http://s.only4.tv/9861/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="ntv-xit" tvg-logo="http://1lot.tv/ch/9860.png" ,HTB Хит HD
+http://s.only4.tv/9860/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus" tvg-logo="http://1lot.tv/ch/8179.png" ,Иллюзион+ HD
+http://s.only4.tv/8179/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="bolt" tvg-logo="http://1lot.tv/ch/6188.png" ,Bolt
+http://s.only4.tv/6188/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="dorama" tvg-logo="http://1lot.tv/ch/430.png" ,Дорама
+http://s.only4.tv/430/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="cinema-ru" tvg-logo="http://1lot.tv/ch/5533.png" ,Cinema
+http://s.only4.tv/5533/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="feniks-plus-kino" tvg-logo="http://1lot.tv/ch/9657.png" ,Феникс плюс Кино HD
+http://s.only4.tv/9657/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="filmbox-ru" tvg-logo="http://1lot.tv/ch/5558.png" ,FilmBox
+http://s.only4.tv/5558/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="filmbox-arthouse" tvg-logo="http://1lot.tv/ch/5536.png" ,FilmBox Arthouse
+http://s.only4.tv/5536/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="kinouzhas" tvg-logo="http://1lot.tv/ch/5570.png" ,КиноУжас HD
+http://s.only4.tv/5570/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="arsenaltv" tvg-logo="http://1lot.tv/ch/0222.png" ,Арсенал HD
+http://s.only4.tv/0222/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="pobeda" tvg-logo="http://1lot.tv/ch/5534.png" ,Победа
+http://s.only4.tv/5534/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="denpobedy" tvg-logo="http://1lot.tv/ch/6214.png" ,День Победы
+http://s.only4.tv/6214/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/10867.png" ,Пес HD
+http://s.only4.tv/10867/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="blokbaster-hd" tvg-logo="http://1lot.tv/ch/6206.png" ,Блокбастер HD
+http://s.only4.tv/6206/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="kamedi" tvg-logo="http://1lot.tv/ch/6207.png" ,Камеди HD
+http://s.only4.tv/6207/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="kinopokaz-hd" tvg-logo="http://1lot.tv/ch/6208.png" ,КиноПоказ HD
+http://s.only4.tv/6208/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="nash-kinopokaz" tvg-logo="http://1lot.tv/ch/6209.png" ,Наш КиноПоказ HD
+http://s.only4.tv/6209/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="pro-lyubov" tvg-logo="http://1lot.tv/ch/6210.png" ,Про Любовь HD
+http://s.only4.tv/6210/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="khit-hd" tvg-logo="http://1lot.tv/ch/6212.png" ,Хит HD
+http://s.only4.tv/6212/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="star-family" tvg-logo="http://1lot.tv/ch/6213.png" ,Star Family HD
+http://s.only4.tv/6213/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="star-cinema" tvg-logo="http://1lot.tv/ch/7841.png" ,Star Cinema HD
+http://s.only4.tv/7841/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="kinosat" tvg-logo="http://1lot.tv/ch/6229.png" ,Киноман
+http://s.only4.tv/6229/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="premierehd1" tvg-logo="http://1lot.tv/ch/6256.png" ,Premiere 1 HD
+http://s.only4.tv/6256/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="premierehd2" tvg-logo="http://1lot.tv/ch/6257.png" ,Premiere 2 HD
+http://s.only4.tv/6257/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="premierehd3" tvg-logo="http://1lot.tv/ch/6258.png" ,Premiere 3 HD
+http://s.only4.tv/6258/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="premierehd4" tvg-logo="http://1lot.tv/ch/6259.png" ,Premiere 4 HD
+http://s.only4.tv/6259/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="retro-tv" tvg-logo="http://1lot.tv/ch/6263.png" ,Ретро
+http://s.only4.tv/6263/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="nashe-muzhskoe-hd" tvg-logo="http://1lot.tv/ch/6267.png" ,Наше Мужское HD
+http://s.only4.tv/6267/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="strashnoe-hd" tvg-logo="http://1lot.tv/ch/0218.png" ,Страшное HD
+http://s.only4.tv/0218/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="mosfilm-pl4" tvg-logo="http://1lot.tv/ch/6295.png" ,Мосфильм (+4)
+http://s.only4.tv/6295/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="kinojam1" tvg-logo="http://1lot.tv/ch/6509.png" ,KinoJam 1 HD
+http://s.only4.tv/6509/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="kinojam2" tvg-logo="http://1lot.tv/ch/6510.png" ,KinoJam 2 HD
+http://s.only4.tv/6510/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="detectivejam" tvg-logo="http://1lot.tv/ch/9660.png" ,DetectiveJam HD
+http://s.only4.tv/9660/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="familyjam" tvg-logo="http://1lot.tv/ch/9661.png" ,FamilyJam HD
+http://s.only4.tv/9661/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/6804.png" ,TOP: Cinema HD
+http://s.only4.tv/6804/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/6806.png" ,TOP: Mix
+http://s.only4.tv/6806/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/6807.png" ,Best Films HD
+http://s.only4.tv/6807/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/6814.png" ,Фантастика HD
+http://s.only4.tv/6814/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/8026.png" ,Фантастика FHD (2.0)
+http://s.only4.tv/8026/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/6822.png" ,Кинозал! VHS HD
+http://s.only4.tv/6822/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/6823.png" ,Кинозал! Интерны
+http://s.only4.tv/6823/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/6824.png" ,Кинозал! СССР
+http://s.only4.tv/6824/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/6825.png" ,Кинозал! Сваты
+http://s.only4.tv/6825/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/6827.png" ,Кинозал! Универ
+http://s.only4.tv/6827/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/6828.png" ,Кинозал! ХИТ HD
+http://s.only4.tv/6828/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/8348.png" ,Ольга HD
+http://s.only4.tv/8348/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/6832.png" ,Страх HD
+http://s.only4.tv/6832/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/8505.png" ,Страх FHD (2.0)
+http://s.only4.tv/8505/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/8247.png" ,Кинодром
+http://s.only4.tv/8247/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="cineman" tvg-logo="http://1lot.tv/ch/6837.png" ,CineMan
+http://s.only4.tv/6837/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="cineman-rukino" tvg-logo="http://1lot.tv/ch/6838.png" ,CineMan РуКино
+http://s.only4.tv/6838/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="cineman-top" tvg-logo="http://1lot.tv/ch/6839.png" ,CineMan Top
+http://s.only4.tv/6839/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="cineman-thriller" tvg-logo="http://1lot.tv/ch/6840.png" ,CineMan Thriller
+http://s.only4.tv/6840/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="cineman-marvel" tvg-logo="http://1lot.tv/ch/6841.png" ,CineMan Marvel
+http://s.only4.tv/6841/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="cineman-action" tvg-logo="http://1lot.tv/ch/6855.png" ,CineMan Action
+http://s.only4.tv/6855/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="cineman-melodrama" tvg-logo="http://1lot.tv/ch/6856.png" ,CineMan Мелодрама
+http://s.only4.tv/6856/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="cineman-uzhasy" tvg-logo="http://1lot.tv/ch/6914.png" ,CineMan Ужасы
+http://s.only4.tv/6914/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="cineman-comedy" tvg-logo="http://1lot.tv/ch/6915.png" ,CineMan Комедия
+http://s.only4.tv/6915/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="cineman-musw" tvg-logo="http://1lot.tv/ch/7659.png" ,CineMan Ментовские Войны
+http://s.only4.tv/7659/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="cineman-pes" tvg-logo="http://1lot.tv/ch/7660.png" ,CineMan Пёс+Лихач
+http://s.only4.tv/7660/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="cineman-lesnik" tvg-logo="http://1lot.tv/ch/7661.png" ,CineMan Лесник
+http://s.only4.tv/7661/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="cineman-vovserials" tvg-logo="http://1lot.tv/ch/10292.png" ,CineMan Военные Сериалы
+http://s.only4.tv/10292/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="trashtv" tvg-logo="http://1lot.tv/ch/6853.png" ,Trash HD
+http://s.only4.tv/6853/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="yosso-grand" tvg-logo="http://1lot.tv/ch/7185.png" ,Yosso TV Grand
+http://s.only4.tv/7185/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="yosso-rusfilm" tvg-logo="http://1lot.tv/ch/7188.png" ,Yosso TV Русские Фильмы
+http://s.only4.tv/7188/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="yosso-newkino" tvg-logo="http://1lot.tv/ch/7191.png" ,Yosso TV New Кино
+http://s.only4.tv/7191/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="yosso-oblivion" tvg-logo="http://1lot.tv/ch/7537.png" ,Yosso TV Oblivion
+http://s.only4.tv/7537/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="yosso-netflix" tvg-logo="http://1lot.tv/ch/8756.png" ,Yosso TV Netflix
+http://s.only4.tv/8756/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="c-marvel" tvg-logo="http://1lot.tv/ch/7639.png" ,C-Marvel HD
+http://s.only4.tv/7639/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="plan-b" tvg-logo="http://1lot.tv/ch/7665.png" ,Plan B
+http://s.only4.tv/7665/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/7704.png" ,Dorama+ HD
+http://s.only4.tv/7704/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="start-air" tvg-logo="http://1lot.tv/ch/8029.png" ,Start Air HD
+http://s.only4.tv/8029/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="start-world" tvg-logo="http://1lot.tv/ch/8030.png" ,Start World HD
+http://s.only4.tv/8030/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="kli_action" tvg-logo="http://1lot.tv/ch/2013.png" ,KLI Action HD
+http://s.only4.tv/2013/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="klinovinci" tvg-logo="http://1lot.tv/ch/8855.png" ,KLI Новинки HD
+http://s.only4.tv/8855/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="Kli_PolicemanRublyovka" tvg-logo="http://1lot.tv/ch/11201.png" ,KLI Полицейский с Рублёвки
+http://s.only4.tv/11201/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="domashny" tvg-logo="http://1lot.tv/ch/6254.png" ,Домашний HD
+http://s.only4.tv/6254/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="super" tvg-logo="http://1lot.tv/ch/6464.png" ,Суббота HD
+http://s.only4.tv/6464/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="TVPlayIndianCinema.tv" tvg-logo="http://1lot.tv/ch/9221.png" ,TVPlay Индийское Кино
+http://s.only4.tv/9221/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="TVPlayIgraPrestolov.tv" tvg-logo="http://1lot.tv/ch/9222.png" ,TVPlay Игра Престолов HD
+http://s.only4.tv/9222/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="TVPlayLihie90eKino.tv" tvg-logo="http://1lot.tv/ch/9253.png" ,TVPlay Лихие 90е Кино
+http://s.only4.tv/9253/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="TVPlayNovyoRUSHD.tv" tvg-logo="http://1lot.tv/ch/9254.png" ,TVPlay Новинки RUS HD
+http://s.only4.tv/9254/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="TVPlayNovyoWorldHD.tv" tvg-logo="http://1lot.tv/ch/9255.png" ,TVPlay Новинки МИР HD
+http://s.only4.tv/9255/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="TVPlayAnimeHD.tv" tvg-logo="http://1lot.tv/ch/9377.png" ,TVPlay Аниме HD
+http://s.only4.tv/9377/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="TVPlayDetskoeKino.tv" tvg-logo="http://1lot.tv/ch/10852.png" ,TVPlay Детское Кино HD
+http://s.only4.tv/10852/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="TVPlayGalustyan.tv" tvg-logo="http://1lot.tv/ch/11157.png" ,TVPlay Михаил Галустян
+http://s.only4.tv/11157/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="TVPlayMortalkombat.tv" tvg-logo="http://1lot.tv/ch/11345.png" ,TVPlay Mortal Kombat HD
+http://s.only4.tv/11345/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="romance" tvg-logo="http://1lot.tv/ch/9654.png" ,Romance HD
+http://s.only4.tv/9654/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="suspense" tvg-logo="http://1lot.tv/ch/9655.png" ,Suspense HD
+http://s.only4.tv/9655/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="scream" tvg-logo="http://1lot.tv/ch/9662.png" ,Scream HD
+http://s.only4.tv/9662/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="lavstori" tvg-logo="http://1lot.tv/ch/9682.png" ,Лавстори HD
+http://s.only4.tv/9682/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="kino1int-tviksel" tvg-logo="http://1lot.tv/ch/10820.png" ,Кино 1 International
+http://s.only4.tv/10820/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="detkinoint-tviksel" tvg-logo="http://1lot.tv/ch/10821.png" ,Детское Кино International
+http://s.only4.tv/10821/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="mosfilm" tvg-logo="http://1lot.tv/ch/11125.png" ,Мосфильм. Золотая коллекция
+http://s.only4.tv/11125/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Кино" tvg-id="chestny-detektiv" tvg-logo="http://1lot.tv/ch/11163.png" ,Честный Детектив
+http://s.only4.tv/11163/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Кино" tvg-id="kino_skazka_sssr_fhd" tvg-logo="http://1lot.tv/ch/11319.png" ,OK TV - КиноСказка СССР
+http://s.only4.tv/11319/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="bcu-action" tvg-logo="http://1lot.tv/ch/6274.png" ,BCU Action HD
+http://s.only4.tv/6274/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="bcu-fantastic" tvg-logo="http://1lot.tv/ch/6278.png" ,BCU Fantastic HD
+http://s.only4.tv/6278/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="bcu-premiere" tvg-logo="http://1lot.tv/ch/6282.png" ,BCU Premiere HD
+http://s.only4.tv/6282/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="bcu-russian" tvg-logo="http://1lot.tv/ch/6284.png" ,BCU Russian HD
+http://s.only4.tv/6284/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="bcu-kinozal-prem-1" tvg-logo="http://1lot.tv/ch/6286.png" ,BCU Premiere 1 HD
+http://s.only4.tv/6286/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="bcu-kinozal-prem-2" tvg-logo="http://1lot.tv/ch/6287.png" ,BCU Premiere 2 HD
+http://s.only4.tv/6287/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="bcu-kinozal-prem-3" tvg-logo="http://1lot.tv/ch/6288.png" ,BCU Premiere 3 HD
+http://s.only4.tv/6288/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="bcu-filmystic" tvg-logo="http://1lot.tv/ch/6294.png" ,BCU FilMystic HD
+http://s.only4.tv/6294/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="bcu-criminal" tvg-logo="http://1lot.tv/ch/6642.png" ,BCU Criminal HD
+http://s.only4.tv/6642/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="newfilm1-mm" tvg-logo="http://1lot.tv/ch/7126.png" ,MM NewFilm 1 HD
+http://s.only4.tv/7126/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="newfilm2-mm" tvg-logo="http://1lot.tv/ch/7127.png" ,MM NewFilm 2 HD
+http://s.only4.tv/7127/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="newfilm3-mm" tvg-logo="http://1lot.tv/ch/7128.png" ,MM NewFilm 3 HD
+http://s.only4.tv/7128/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="newfilmru-mm" tvg-logo="http://1lot.tv/ch/7129.png" ,MM NewFilm RU HD
+http://s.only4.tv/7129/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="boevik-mm" tvg-logo="http://1lot.tv/ch/7144.png" ,MM Боевик HD
+http://s.only4.tv/7144/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="kungfu-mm" tvg-logo="http://1lot.tv/ch/7157.png" ,MM Кунг-Фу HD
+http://s.only4.tv/7157/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="prikluchenija-mm" tvg-logo="http://1lot.tv/ch/7165.png" ,MM Приключения HD
+http://s.only4.tv/7165/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="family2-mm" tvg-logo="http://1lot.tv/ch/7169.png" ,MM Семейный 2 HD
+http://s.only4.tv/7169/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="sport-mm" tvg-logo="http://1lot.tv/ch/7172.png" ,MM Спорт HD
+http://s.only4.tv/7172/index.m3u8?token=zoCHqBtVEo
+
+
+
+
+
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="Freshcinema-1" tvg-logo="http://1lot.tv/ch/8069.png" ,Fresh Cinema
+http://s.only4.tv/8069/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="Freshcomedy-2" tvg-logo="http://1lot.tv/ch/8071.png" ,Fresh Comedy
+http://s.only4.tv/8071/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="Freshpremiere-7" tvg-logo="http://1lot.tv/ch/8072.png" ,Fresh Premiere
+http://s.only4.tv/8072/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="Freshfamily-3" tvg-logo="http://1lot.tv/ch/8073.png" ,Fresh Family
+http://s.only4.tv/8073/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="Freshfantastic-4" tvg-logo="http://1lot.tv/ch/8076.png" ,Fresh Fantastic
+http://s.only4.tv/8076/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="magic-action" tvg-logo="http://1lot.tv/ch/8107.png" ,Magic Action
+http://s.only4.tv/8107/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="magic-premiere" tvg-logo="http://1lot.tv/ch/10568.png" ,Magic Premiere
+http://s.only4.tv/10568/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="kinoliving" tvg-logo="http://1lot.tv/ch/8146.png" ,KinoLiving HD
+http://s.only4.tv/8146/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="eye-media" tvg-logo="http://1lot.tv/ch/8202.png" ,Eye Media
+http://s.only4.tv/8202/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="eye-oscar" tvg-logo="http://1lot.tv/ch/8203.png" ,Eye Oscar
+http://s.only4.tv/8203/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="eye-drive" tvg-logo="http://1lot.tv/ch/8210.png" ,Eye Drive
+http://s.only4.tv/8210/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="eye-cyber" tvg-logo="http://1lot.tv/ch/8211.png" ,Eye Cyber
+http://s.only4.tv/8211/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="MYTVmytv-0" tvg-logo="http://1lot.tv/ch/8212.png" ,MyTV
+http://s.only4.tv/8212/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="MYTVmytv2-1" tvg-logo="http://1lot.tv/ch/8213.png" ,MyTV 2
+http://s.only4.tv/8213/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="MYTVmytv3-2" tvg-logo="http://1lot.tv/ch/8214.png" ,MyTV 3
+http://s.only4.tv/8214/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="MYTVmytvhit-3" tvg-logo="http://1lot.tv/ch/8215.png" ,MyTV Hit
+http://s.only4.tv/8215/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="kion-xit" tvg-logo="http://1lot.tv/ch/8217.png" ,Kion Хит HD
+http://s.only4.tv/8217/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="box-franchise" tvg-logo="http://1lot.tv/ch/8709.png" ,BOX Franchise HD
+http://s.only4.tv/8709/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="box-anime" tvg-logo="http://1lot.tv/ch/8711.png" ,BOX Anime HD
+http://s.only4.tv/8711/index.m3u8?token=zoCHqBtVEo
+
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="4ever-cinema" tvg-logo="http://1lot.tv/ch/8817.png" ,4Ever Cinema HD
+http://s.only4.tv/8817/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="semejnoe-kino-kz" tvg-logo="http://1lot.tv/ch/9141.png" ,Семейное Кино HD
+http://s.only4.tv/9141/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="premium-kino-kz" tvg-logo="http://1lot.tv/ch/9143.png" ,Премиум Кино HD
+http://s.only4.tv/9143/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="q-kino-alem" tvg-logo="http://1lot.tv/ch/10802.png" ,Кино Сериал HD
+http://s.only4.tv/10802/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="q-kino-hit" tvg-logo="http://1lot.tv/ch/10801.png" ,Кино Драма HD
+http://s.only4.tv/10801/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="velilla-actionwar" tvg-logo="http://1lot.tv/ch/9443.png" ,Velilla TV Action War Films HD
+http://s.only4.tv/9443/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="velilla-kuxnia" tvg-logo="http://1lot.tv/ch/10768.png" ,Velilla TV Кухня + Отель «Элеон» HD
+http://s.only4.tv/10768/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="kbc-comics" tvg-logo="http://1lot.tv/ch/6566.png" ,KBC-Comics
+http://s.only4.tv/6566/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="kbc-newfilm" tvg-logo="http://1lot.tv/ch/6570.png" ,KBC-NewFilm
+http://s.only4.tv/6570/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="kbc-goblin" tvg-logo="http://1lot.tv/ch/8242.png" ,KBC-Гоблин
+http://s.only4.tv/8242/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="kbc-anime" tvg-logo="http://1lot.tv/ch/6638.png" ,KBC-Аниме
+http://s.only4.tv/6638/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="veles-semej" tvg-logo="http://1lot.tv/ch/9528.png" ,VeleS Семейный
+http://s.only4.tv/9528/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="veles-gobln" tvg-logo="http://1lot.tv/ch/10372.png" ,VeleS Гоблин
+http://s.only4.tv/10372/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="КиноПлюс" tvg-id="kernel-newmovies" tvg-logo="http://1lot.tv/ch/10605.png" ,Kernel TV Новинки
+http://s.only4.tv/10605/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Разное" tvg-id="anekdottv" tvg-logo="http://1lot.tv/ch/5524.png" ,Анекдот ТВ
+http://s.only4.tv/5524/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Разное" tvg-id="gags-network" tvg-logo="http://1lot.tv/ch/6875.png" ,GagsNetwork
+http://s.only4.tv/6875/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Разное" tvg-id="perec-int" tvg-logo="http://1lot.tv/ch/6919.png" ,Перец Int.
+http://s.only4.tv/6919/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Разное" tvg-id="gametoon" tvg-logo="http://1lot.tv/ch/8131.png" ,Game Toon HD
+http://s.only4.tv/8131/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Разное" tvg-id="Z_Fun" tvg-logo="http://1lot.tv/ch/8256.png" ,Z! Fun HD
+http://s.only4.tv/8256/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Разное" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/8742.png" ,VB Назад в СССР
+http://s.only4.tv/8742/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Разное" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/9039.png" ,PlayBoyz TV HD
+http://s.only4.tv/9039/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Разное" tvg-id="TVPlaySketchShow.tv" tvg-logo="http://1lot.tv/ch/9229.png" ,TVPlay Скетч-Шоу
+http://s.only4.tv/9229/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Разное" tvg-id="TVPlayFitil.tv" tvg-logo="http://1lot.tv/ch/11179.png" ,TVPlay Фитиль
+http://s.only4.tv/11179/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Разное" tvg-id="kbc-100500" tvg-logo="http://1lot.tv/ch/9513.png" ,KBC+100500 (18+)
+http://s.only4.tv/9513/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Разное" tvg-id="kongresstv" tvg-logo="http://1lot.tv/ch/9668.png" ,Конгресс ТВ HD
+http://s.only4.tv/9668/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Разное" tvg-id="curiosity-stream" tvg-logo="http://1lot.tv/ch/9670.png" ,Curiosity Stream HD
+http://s.only4.tv/9670/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Разное" tvg-id="extrasens" tvg-logo="http://1lot.tv/ch/9980.png" , KLI Битва Экстрасенсов
+http://s.only4.tv/9980/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Разное" tvg-id="000012" tvg-logo="http://1lot.tv/ch/10951.png" ,Play-X Уральские Пельмени HD
+http://s.only4.tv/10951/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="match-football2" tvg-logo="http://1lot.tv/ch/1401.png" ,Матч! Футбол 2 HD
+http://s.only4.tv/1401/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="football-ru" tvg-logo="http://1lot.tv/ch/7988.png" ,Телеканал Футбол HD
+http://s.only4.tv/7988/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="match-premier" tvg-logo="http://1lot.tv/ch/1423.png" ,Матч! Премьер
+http://s.only4.tv/1423/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="match-boets" tvg-logo="http://1lot.tv/ch/10679.png" ,Матч! Боец HD
+http://s.only4.tv/10679/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="match-planeta" tvg-logo="http://1lot.tv/ch/5528.png" ,Матч! Планета
+http://s.only4.tv/5528/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="box-tv" tvg-logo="http://1lot.tv/ch/8824.png" ,Бокс ТВ HD
+http://s.only4.tv/8824/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="russky-ekstrim" tvg-logo="http://1lot.tv/ch/0143.png" ,Russian Extreme HD
+http://s.only4.tv/0143/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport" tvg-logo="http://1lot.tv/ch/5568.png" ,Viju+ Sport HD
+http://s.only4.tv/5568/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="konny-mir" tvg-logo="http://1lot.tv/ch/0150.png" ,Конный Мир HD
+http://s.only4.tv/0150/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports" tvg-logo="http://1lot.tv/ch/5509.png" ,Setanta Sports 1 HD
+http://s.only4.tv/5509/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus" tvg-logo="http://1lot.tv/ch/5510.png" ,Setanta Sports 2 HD
+http://s.only4.tv/5510/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="m1global" tvg-logo="http://1lot.tv/ch/1325.png" ,ММА ТВ HD
+http://s.only4.tv/1325/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="mir-basketbola" tvg-logo="http://1lot.tv/ch/9664.png" ,Мир Баскетбола HD
+http://s.only4.tv/9664/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="fightbox-hd" tvg-logo="http://1lot.tv/ch/5529.png" ,FightBox
+http://s.only4.tv/5529/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="fastfunbox-hd" tvg-logo="http://1lot.tv/ch/5530.png" ,Fast and FunBox HD
+http://s.only4.tv/5530/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="ufc" tvg-logo="http://1lot.tv/ch/5532.png" ,Удар HD
+http://s.only4.tv/5532/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="drive" tvg-logo="http://1lot.tv/ch/5563.png" ,Драйв
+http://s.only4.tv/5563/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="start" tvg-logo="http://1lot.tv/ch/6261.png" ,Старт HD
+http://s.only4.tv/6261/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="start-triumf" tvg-logo="http://1lot.tv/ch/9663.png" ,Старт Триумф
+http://s.only4.tv/9663/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="xokkejny" tvg-logo="http://1lot.tv/ch/6511.png" ,Хоккей ТВ HD
+http://s.only4.tv/6511/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/6817.png" ,WWE Russian
+http://s.only4.tv/6817/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8132.png" ,MMA Time HD
+http://s.only4.tv/8132/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="eurosport1" tvg-logo="http://1lot.tv/ch/7206.png" ,EuroSport 1 CEE HD
+http://s.only4.tv/7206/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="eurosport2" tvg-logo="http://1lot.tv/ch/7207.png" ,EuroSport 2 CEE HD
+http://s.only4.tv/7207/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="trace-sport-stars" tvg-logo="http://1lot.tv/ch/7700.png" ,Trace Sport Stars HD
+http://s.only4.tv/7700/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="kazsport" tvg-logo="http://1lot.tv/ch/7728.png" ,QazSport HD
+http://s.only4.tv/7728/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="q-sport-ext" tvg-logo="http://1lot.tv/ch/7730.png" ,Q Sport League HD
+http://s.only4.tv/7730/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/7913.png" ,UFC Fight Pass HD
+http://s.only4.tv/7913/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="sportivny" tvg-logo="http://1lot.tv/ch/8191.png" ,ТВ Спорт HD
+http://s.only4.tv/8191/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8516.png" ,Fint GA 1
+http://s.only4.tv/8516/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8517.png" ,Fint GA 2
+http://s.only4.tv/8517/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8518.png" ,Fint GA 3
+http://s.only4.tv/8518/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8602.png" ,Fint GA 4
+http://s.only4.tv/8602/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8519.png" ,Pimple TV 1
+http://s.only4.tv/8519/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8520.png" ,Pimple TV 2
+http://s.only4.tv/8520/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8521.png" ,Pimple TV 3
+http://s.only4.tv/8521/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8522.png" ,Pimple TV 4
+http://s.only4.tv/8522/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8523.png" ,Pimple TV 5
+http://s.only4.tv/8523/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8753.png" ,Pimple TV 6
+http://s.only4.tv/8753/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="zhivi-aktivno" tvg-logo="http://1lot.tv/ch/9259.png" ,Живи Активно HD
+http://s.only4.tv/9259/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="cineman-fitnes" tvg-logo="http://1lot.tv/ch/9365.png" ,CineMan Фитнес
+http://s.only4.tv/9365/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="velilla-legendmatch" tvg-logo="http://1lot.tv/ch/10137.png" ,Velilla TV Legendary Matches HD
+http://s.only4.tv/10137/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="fifaclubworldcup2025" tvg-logo="http://1lot.tv/ch/11212.png" ,Velilla TV FIFA Club World Cup 2025 HD
+http://s.only4.tv/11212/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="okko-sport" tvg-logo="http://1lot.tv/ch/10250.png" ,Окко Спорт HD
+http://s.only4.tv/10250/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="okko-football" tvg-logo="http://1lot.tv/ch/10251.png" ,Окко Футбол HD
+http://s.only4.tv/10251/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="okko-sport-2" tvg-logo="http://1lot.tv/ch/10849.png" ,Окко Прайм Спорт HD
+http://s.only4.tv/10849/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="sport-plus-kz" tvg-logo="http://1lot.tv/ch/10796.png" ,Sport Plus HD
+http://s.only4.tv/10796/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="q-football-kz" tvg-logo="http://1lot.tv/ch/10808.png" ,Q Football HD
+http://s.only4.tv/10808/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="q-live1-kz" tvg-logo="http://1lot.tv/ch/10809.png" ,Q Live 1 HD
+http://s.only4.tv/10809/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="q-live2-kz" tvg-logo="http://1lot.tv/ch/10810.png" ,Q Live 2 HD
+http://s.only4.tv/10810/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="q-live3-kz" tvg-logo="http://1lot.tv/ch/10811.png" ,Q Live 3 HD
+http://s.only4.tv/10811/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="q-live4-kz" tvg-logo="http://1lot.tv/ch/10812.png" ,Q Live 4 HD
+http://s.only4.tv/10812/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="real-madrid-tv" tvg-logo="http://1lot.tv/ch/10823.png" ,Real Madrid TV (UK)
+http://s.only4.tv/10823/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Спорт" tvg-id="real-madrid-tv" tvg-logo="http://1lot.tv/ch/10824.png" ,Real Madrid TV (ESP)
+http://s.only4.tv/10824/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Спорт" tvg-id="000018" tvg-logo="http://1lot.tv/ch/10988.png" ,Play-X Баскетбол USA HD
+http://s.only4.tv/10988/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="nickelodeon-ru" tvg-logo="http://1lot.tv/ch/14106.png" ,Nickelodeon HD
+http://s.only4.tv/14106/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="da-vinci" tvg-logo="http://1lot.tv/ch/19101.png" ,Da Vinci
+http://s.only4.tv/19101/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="ginger-hd" tvg-logo="http://1lot.tv/ch/0148.png" ,Капитан Фантастика
+http://s.only4.tv/0148/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="karusel" tvg-logo="http://1lot.tv/ch/822.png" ,Карусель
+http://s.only4.tv/822/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="tiji" tvg-logo="http://1lot.tv/ch/2121.png" ,TiJi 
+http://s.only4.tv/2121/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="cartoon-network" tvg-logo="http://1lot.tv/ch/802.png" ,Cartoon Network
+http://s.only4.tv/802/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="boomerang" tvg-logo="http://1lot.tv/ch/821.png" ,Cartoonito
+http://s.only4.tv/821/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="gulli-girl" tvg-logo="http://1lot.tv/ch/2122.png" ,Gulli Girl
+http://s.only4.tv/2122/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="solnce" tvg-logo="http://1lot.tv/ch/1312.png" ,Солнце (RU)
+http://s.only4.tv/1312/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="2na2" tvg-logo="http://1lot.tv/ch/1826.png" ,2х2
+http://s.only4.tv/1826/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="sts-kids-hd" tvg-logo="http://1lot.tv/ch/5571.png" ,СТС Kids
+http://s.only4.tv/5571/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="fanhd" tvg-logo="http://1lot.tv/ch/6304.png" ,FAN HD
+http://s.only4.tv/6304/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="smaylik-tv" tvg-logo="http://1lot.tv/ch/6546.png" ,Смайл ТВ
+http://s.only4.tv/6546/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="detsky" tvg-logo="http://1lot.tv/ch/1112.png" ,Уникум
+http://s.only4.tv/1112/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="nicktoons" tvg-logo="http://1lot.tv/ch/1327.png" ,NickToons
+http://s.only4.tv/1327/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="malysh" tvg-logo="http://1lot.tv/ch/122.png" ,СуперГерои
+http://s.only4.tv/122/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="cartoons-big" tvg-logo="http://1lot.tv/ch/6836.png" ,Cartoons Big
+http://s.only4.tv/6836/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="cartoons-short" tvg-logo="http://1lot.tv/ch/6835.png" ,Cartoons Short
+http://s.only4.tv/6835/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="cartoons-90" tvg-logo="http://1lot.tv/ch/6834.png" ,Cartoons 90
+http://s.only4.tv/6834/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="http://1lot.tv/ch/6830.png" ,Кроха ТВ
+http://s.only4.tv/6830/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="http://1lot.tv/ch/6818.png" ,Веселая Карусель HD
+http://s.only4.tv/6818/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="yosso-kids" tvg-logo="http://1lot.tv/ch/7187.png" ,YOSSO TV Kids
+http://s.only4.tv/7187/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="yosso-disney" tvg-logo="http://1lot.tv/ch/8757.png" ,YOSSO TV Disney
+http://s.only4.tv/8757/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="yosso-soyuzmult" tvg-logo="http://1lot.tv/ch/7192.png" ,YOSSO TV СоюзМульт
+http://s.only4.tv/7192/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="cineman-simps" tvg-logo="http://1lot.tv/ch/7228.png" ,CineMan Симпсоны
+http://s.only4.tv/7228/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="Z_Smile" tvg-logo="http://1lot.tv/ch/7589.png" ,Z! Smile HD
+http://s.only4.tv/7589/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="c-cartoon" tvg-logo="http://1lot.tv/ch/7638.png" ,C-Cartoon HD
+http://s.only4.tv/7638/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="bcu-kids" tvg-logo="http://1lot.tv/ch/6291.png" ,BCU Kids HD
+http://s.only4.tv/6291/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="bcu-kids-plus" tvg-logo="http://1lot.tv/ch/6323.png" ,BCU Kids+ HD
+http://s.only4.tv/6323/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="bcu-multserial" tvg-logo="http://1lot.tv/ch/6290.png" ,BCU Multserial HD
+http://s.only4.tv/6290/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="walt-disney-mm" tvg-logo="http://1lot.tv/ch/7234.png" ,MM Walt Disney HD
+http://s.only4.tv/7234/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="bcu-little" tvg-logo="http://1lot.tv/ch/8063.png" ,BCU Little HD
+http://s.only4.tv/8063/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="tom-and-jerry-mm" tvg-logo="http://1lot.tv/ch/7131.png" ,MM Tom and Jerry HD
+http://s.only4.tv/7131/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="mult-mm" tvg-logo="http://1lot.tv/ch/7136.png" ,MM USSR Мультфильм HD
+http://s.only4.tv/7136/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="ussr-skazki-mm" tvg-logo="http://1lot.tv/ch/7137.png" ,MM USSR Сказки HD
+http://s.only4.tv/7137/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="honey-mm" tvg-logo="http://1lot.tv/ch/7142.png" ,MM Honey HD
+http://s.only4.tv/7142/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="lesson-mm" tvg-logo="http://1lot.tv/ch/7158.png" ,MM Lesson HD
+http://s.only4.tv/7158/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="smile-mm" tvg-logo="http://1lot.tv/ch/7159.png" ,MM Smile HD
+http://s.only4.tv/7159/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="griffiny-mm" tvg-logo="http://1lot.tv/ch/8232.png" ,MM Гриффины HD
+http://s.only4.tv/8232/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="kliprostokvashino" tvg-logo="http://1lot.tv/ch/8041.png" , KLI Простоквашино
+http://s.only4.tv/8041/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="kbc-family-animation" tvg-logo="http://1lot.tv/ch/6567.png" ,KBC-Family Animation
+http://s.only4.tv/6567/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="kbc-multzal" tvg-logo="http://1lot.tv/ch/6578.png" ,KBC-Союз МультЗал
+http://s.only4.tv/6578/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="kbc-skazka-remake" tvg-logo="http://1lot.tv/ch/10254.png" ,KBC-Сказочный Remake HD
+http://s.only4.tv/10254/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="Freshkids-6" tvg-logo="http://1lot.tv/ch/8070.png" ,Fresh Kids
+http://s.only4.tv/8070/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="magic-disney" tvg-logo="http://1lot.tv/ch/8104.png" ,Magic Disney
+http://s.only4.tv/8104/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="no-epg" tvg-logo="http://1lot.tv/ch/8115.png" ,Ералаш HD
+http://s.only4.tv/8115/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="no-epg" tvg-logo="http://1lot.tv/ch/8116.png" ,Том и Джерри
+http://s.only4.tv/8116/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="ducktv" tvg-logo="http://1lot.tv/ch/8151.png" ,Duck
+http://s.only4.tv/8151/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="ducktv" tvg-logo="http://1lot.tv/ch/8152.png" ,Duck HD
+http://s.only4.tv/8152/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="ducktv-plus" tvg-logo="http://1lot.tv/ch/8153.png" ,Duck Plus HD
+http://s.only4.tv/8153/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="MYTVmytvkids-4" tvg-logo="http://1lot.tv/ch/8216.png" ,MyTV Kids
+http://s.only4.tv/8216/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="ryzhy" tvg-logo="http://1lot.tv/ch/8418.png" ,Рыжий
+http://s.only4.tv/8418/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="http://1lot.tv/ch/9041.png" ,Репка HD
+http://s.only4.tv/9041/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="TVPlayEralash.tv" tvg-logo="http://1lot.tv/ch/9224.png" ,TVPlay Ералаш
+http://s.only4.tv/9224/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="lapki-live" tvg-logo="http://1lot.tv/ch/9401.png" ,Лапки Live
+http://s.only4.tv/9401/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="cartoon-classics" tvg-logo="http://1lot.tv/ch/9665.png" ,Cartoon Classics
+http://s.only4.tv/9665/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="TVPlayLadyBag.tv" tvg-logo="http://1lot.tv/ch/9812.png" ,TVPlay Леди Баг и Супер Кот
+http://s.only4.tv/9812/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="TVPlaySovMultHD.tv" tvg-logo="http://1lot.tv/ch/9376.png" ,TVPlay Советские Мультфильмы HD
+http://s.only4.tv/9376/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="TVPlayMickeyMouse.tv" tvg-logo="http://1lot.tv/ch/11049.png" ,TVPlay Микки Маус HD
+http://s.only4.tv/11049/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="kernel-anime" tvg-logo="http://1lot.tv/ch/10571.png" ,Kernel TV Аниме
+http://s.only4.tv/10571/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="kernel-buba" tvg-logo="http://1lot.tv/ch/10574.png" ,Kernel TV Буба
+http://s.only4.tv/10574/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="kernel-mashaimedved" tvg-logo="http://1lot.tv/ch/10601.png" ,Kernel TV Маша и Медведь
+http://s.only4.tv/10601/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="kernel-mimimishki" tvg-logo="http://1lot.tv/ch/10602.png" ,Kernel TV Ми-ми-Мишки
+http://s.only4.tv/10602/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="kernel-piespatrol" tvg-logo="http://1lot.tv/ch/10607.png" ,Kernel TV Щенячий Патруль
+http://s.only4.tv/10607/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="kernel-rusalochka" tvg-logo="http://1lot.tv/ch/10608.png" ,Kernel TV Русалочка
+http://s.only4.tv/10608/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="kernel-smeshariki" tvg-logo="http://1lot.tv/ch/10609.png" ,Kernel TV Смешарики
+http://s.only4.tv/10609/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="kernel-sonikbum" tvg-logo="http://1lot.tv/ch/10610.png" ,Kernel TV Сонник Бум
+http://s.only4.tv/10610/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="kernel-timonpumba" tvg-logo="http://1lot.tv/ch/10614.png" ,Kernel TV Тимон и Пумба
+http://s.only4.tv/10614/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="kernel-trikota" tvg-logo="http://1lot.tv/ch/10616.png" ,Kernel TV Три Кота
+http://s.only4.tv/10616/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="kernel-komandaturbo" tvg-logo="http://1lot.tv/ch/10617.png" ,Kernel TV Команда Турбо
+http://s.only4.tv/10617/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="baby-time" tvg-logo="http://1lot.tv/ch/10697.png" ,Baby Time
+http://s.only4.tv/10697/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="http://1lot.tv/ch/10881.png" ,Мульт-Stream HD
+http://s.only4.tv/10881/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="kidstv" tvg-logo="http://1lot.tv/ch/10882.png" ,Kids TV HD
+http://s.only4.tv/10882/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Детские" tvg-id="mult_epoha_uhd" tvg-logo="http://1lot.tv/ch/11316.png" ,Чебур ТВ - МультЭпоха СССР
+http://s.only4.tv/11316/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/11391.png" ,CHD-TV СоюзМультфильм
+http://s.only4.tv/11391/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="h2" tvg-logo="http://1lot.tv/ch/0205.png" ,History 2 HD
+http://s.only4.tv/0205/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="national-geographic" tvg-logo="http://1lot.tv/ch/0203.png" ,National Geographic HD
+http://s.only4.tv/0203/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild" tvg-logo="http://1lot.tv/ch/20101.png" ,National Geographic Wild HD
+http://s.only4.tv/20101/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel" tvg-logo="http://1lot.tv/ch/26006.png" ,Travel Channel HD CEE
+http://s.only4.tv/26006/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="prikluchenia-hd" tvg-logo="http://1lot.tv/ch/0136.png" ,Приключения HD
+http://s.only4.tv/0136/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="eureka-hd" tvg-logo="http://1lot.tv/ch/0145.png" ,Первый Космический
+http://s.only4.tv/0145/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="oxotnik-i-rybolov-hd" tvg-logo="http://1lot.tv/ch/0144.png" ,Охотник и Рыболов HD
+http://s.only4.tv/0144/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel" tvg-logo="http://1lot.tv/ch/12105.png" ,Discovery Channel HD CEE
+http://s.only4.tv/12105/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet-eu" tvg-logo="http://1lot.tv/ch/2202.png" ,Animal Planet HD CEE
+http://s.only4.tv/2202/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure" tvg-logo="http://1lot.tv/ch/713.png" ,Travel+Adventure HD
+http://s.only4.tv/713/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="dikiy" tvg-logo="http://1lot.tv/ch/2128.png" ,Дикий
+http://s.only4.tv/2128/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-priroda" tvg-logo="http://1lot.tv/ch/0217.png" ,Живая Природа HD
+http://s.only4.tv/0217/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature" tvg-logo="http://1lot.tv/ch/6458.png" ,Viju Nature HD
+http://s.only4.tv/6458/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd" tvg-logo="http://1lot.tv/ch/17105.png" ,Viju+ Planet HD
+http://s.only4.tv/17105/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-history" tvg-logo="http://1lot.tv/ch/6459.png" ,Viju History HD
+http://s.only4.tv/6459/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore" tvg-logo="http://1lot.tv/ch/6460.png" ,Viju Explore HD
+http://s.only4.tv/6460/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="tlc" tvg-logo="http://1lot.tv/ch/815.png" ,TLC PAN
+http://s.only4.tv/815/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="food-network-eu" tvg-logo="http://1lot.tv/ch/6461.png" ,Food Network HD
+http://s.only4.tv/6461/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="365-dnej" tvg-logo="http://1lot.tv/ch/101.png" ,365 Дней ТВ
+http://s.only4.tv/101/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="english-club-tv" tvg-logo="http://1lot.tv/ch/5527.png" ,English Club
+http://s.only4.tv/5527/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="oruzhie" tvg-logo="http://1lot.tv/ch/5565.png" ,Оружие
+http://s.only4.tv/5565/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="texno-24" tvg-logo="http://1lot.tv/ch/5566.png" ,Т-24
+http://s.only4.tv/5566/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="glazami-turista" tvg-logo="http://1lot.tv/ch/0252.png" ,Глазами Туриста HD
+http://s.only4.tv/0252/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="avto24" tvg-logo="http://1lot.tv/ch/10711.png" ,Авто 24 HD
+http://s.only4.tv/10711/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="avto-plus" tvg-logo="http://1lot.tv/ch/10710.png" ,Авто Плюс HD
+http://s.only4.tv/10710/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="kuxnia-tv" tvg-logo="http://1lot.tv/ch/9679.png" ,Кухня HD
+http://s.only4.tv/9679/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="eda" tvg-logo="http://1lot.tv/ch/9678.png" ,Еда
+http://s.only4.tv/9678/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv" tvg-logo="http://1lot.tv/ch/7941.png" ,Тайны Галактики HD
+http://s.only4.tv/7941/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd" tvg-logo="http://1lot.tv/ch/5599.png" ,В Мире Животных HD
+http://s.only4.tv/5599/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="poexali" tvg-logo="http://1lot.tv/ch/805.png" ,Поехали!
+http://s.only4.tv/805/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="bolshaya-azia" tvg-logo="http://1lot.tv/ch/6306.png" ,Большая Азия HD
+http://s.only4.tv/6306/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="kosmohd" tvg-logo="http://1lot.tv/ch/6829.png" ,Космо HD
+http://s.only4.tv/6829/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/6810.png" ,Юнит HD
+http://s.only4.tv/6810/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="zagorodny-int" tvg-logo="http://1lot.tv/ch/6880.png" ,Загородный Int. HD
+http://s.only4.tv/6880/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="eureka-hd" tvg-logo="http://1lot.tv/ch/7703.png" ,Первый Космический HD
+http://s.only4.tv/7703/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="id-xtra-eu" tvg-logo="http://1lot.tv/ch/7707.png" ,Investigation Discovery HD
+http://s.only4.tv/7707/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-cee" tvg-logo="http://1lot.tv/ch/10686.png" ,Viasat Nature CEE
+http://s.only4.tv/10686/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="history" tvg-logo="http://1lot.tv/ch/7747.png" ,History CEE HD
+http://s.only4.tv/7747/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="micromir-mm" tvg-logo="http://1lot.tv/ch/8054.png" ,MM МикроМир HD
+http://s.only4.tv/8054/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="makromir-mm" tvg-logo="http://1lot.tv/ch/8055.png" ,MM МакроМир HD
+http://s.only4.tv/8055/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="megamir-mm" tvg-logo="http://1lot.tv/ch/8056.png" ,MM МегаМир HD
+http://s.only4.tv/8056/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="experiment-mm" tvg-logo="http://1lot.tv/ch/8230.png" ,MM Experiment HD
+http://s.only4.tv/8230/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="otkritiya-mm" tvg-logo="http://1lot.tv/ch/8233.png" ,MM Открытия HD
+http://s.only4.tv/8233/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="eda-hd" tvg-logo="http://1lot.tv/ch/0137.png" ,Food Time HD
+http://s.only4.tv/0137/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="zdorovoe-tv" tvg-logo="http://1lot.tv/ch/6265.png" ,Здоровое ТВ
+http://s.only4.tv/6265/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="doktor" tvg-logo="http://1lot.tv/ch/7702.png" ,Доктор HD
+http://s.only4.tv/7702/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="voprosy-i-otvety" tvg-logo="http://1lot.tv/ch/6262.png" ,Вопросы и Ответы
+http://s.only4.tv/6262/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="zal-suda" tvg-logo="http://1lot.tv/ch/6512.png" ,Зал Суда
+http://s.only4.tv/6512/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="docubox-hd" tvg-logo="http://1lot.tv/ch/8124.png" ,DocuBox HD
+http://s.only4.tv/8124/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="nautical-channel" tvg-logo="http://1lot.tv/ch/8143.png" ,Nautical Channel HD
+http://s.only4.tv/8143/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="mir-vokrug" tvg-logo="http://1lot.tv/ch/8174.png" ,Мир Вокруг HD
+http://s.only4.tv/8174/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="nasha-tema" tvg-logo="http://1lot.tv/ch/8177.png" ,Наша Тема HD
+http://s.only4.tv/8177/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="psixologia-21" tvg-logo="http://1lot.tv/ch/8192.png" ,Психология 21
+http://s.only4.tv/8192/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="piatnica" tvg-logo="http://1lot.tv/ch/5562.png" ,Пятница HD
+http://s.only4.tv/5562/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="teledom" tvg-logo="http://1lot.tv/ch/8010.png" ,Теледом ТВ
+http://s.only4.tv/8010/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="ntv-style" tvg-logo="http://1lot.tv/ch/9830.png" ,HTB Стиль HD
+http://s.only4.tv/9830/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="big-planet" tvg-logo="http://1lot.tv/ch/9671.png" ,Big Planet HD
+http://s.only4.tv/9671/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="teleputeshestvia" tvg-logo="http://1lot.tv/ch/8796.png" ,Телепутешествия
+http://s.only4.tv/8796/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="kriminalnoe-hd" tvg-logo="http://1lot.tv/ch/8841.png" ,Криминальное HD
+http://s.only4.tv/8841/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="travel-xp-hd" tvg-logo="http://1lot.tv/ch/8974.png" ,Travel XP HD
+http://s.only4.tv/8974/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="yosso-food" tvg-logo="http://1lot.tv/ch/9248.png" ,Yosso TV Food
+http://s.only4.tv/9248/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="yosso-science" tvg-logo="http://1lot.tv/ch/9249.png" ,Yosso TV Science
+http://s.only4.tv/9249/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="teatr" tvg-logo="http://1lot.tv/ch/9261.png" ,Театр
+http://s.only4.tv/9261/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="cineman-aircrash" tvg-logo="http://1lot.tv/ch/9685.png" ,CineMan Air Crash
+http://s.only4.tv/9685/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="the-explorers" tvg-logo="http://1lot.tv/ch/9673.png" ,The Explorers HD
+http://s.only4.tv/9673/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="neizvestnaya-rosia" tvg-logo="http://1lot.tv/ch/9674.png" ,Неизвестная Россия HD
+http://s.only4.tv/9674/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="TVPlaySledstvieVeli.tv" tvg-logo="http://1lot.tv/ch/9810.png" ,TVPlay Следствие Вели
+http://s.only4.tv/9810/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="raz1" tvg-logo="http://1lot.tv/ch/9831.png" ,RAZ 1 HD
+http://s.only4.tv/9831/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="raz2" tvg-logo="http://1lot.tv/ch/9832.png" ,RAZ 2 HD
+http://s.only4.tv/9832/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Познавательные" tvg-id="jk_FinF" tvg-logo="http://1lot.tv/ch/9960.png" ,Infiniti: Между Молотом и Наковальней
+http://s.only4.tv/9960/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10695.png" ,Орел и Решка
+http://s.only4.tv/10695/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10709.png" ,Рыболов
+http://s.only4.tv/10709/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="zootv" tvg-logo="http://1lot.tv/ch/10713.png" ,Зоо ТВ
+http://s.only4.tv/10713/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="mtv-europe" tvg-logo="http://1lot.tv/ch/810.png" ,MTV Europe
+http://s.only4.tv/810/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10041.png" ,MTV Base
+http://s.only4.tv/10041/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10039.png" ,MTV Idol
+http://s.only4.tv/10039/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="muzyka-pervogo" tvg-logo="http://1lot.tv/ch/823.png" ,Музыка Первого
+http://s.only4.tv/823/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="europa-plus-tv" tvg-logo="http://1lot.tv/ch/103.png" ,Europa Plus TV
+http://s.only4.tv/103/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-dance" tvg-logo="http://1lot.tv/ch/1818.png" ,Bridge TV Hits
+http://s.only4.tv/1818/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-ruxit" tvg-logo="http://1lot.tv/ch/2119.png" ,Bridge TV Русский Хит
+http://s.only4.tv/2119/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-classic" tvg-logo="http://1lot.tv/ch/2118.png" ,Bridge TV Classic
+http://s.only4.tv/2118/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="tnt-music" tvg-logo="http://1lot.tv/ch/7536.png" ,FON Music HD
+http://s.only4.tv/7536/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="mcm-top" tvg-logo="http://1lot.tv/ch/1809.png" ,MCM Top
+http://s.only4.tv/1809/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="shanson-tv" tvg-logo="http://1lot.tv/ch/724.png" ,Шансон ТВ
+http://s.only4.tv/724/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="zhara" tvg-logo="http://1lot.tv/ch/6462.png" ,Жара HD
+http://s.only4.tv/6462/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="mezzo-live-hd" tvg-logo="http://1lot.tv/ch/20103.png" ,Mezzo Live HD
+http://s.only4.tv/20103/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="1hd" tvg-logo="http://1lot.tv/ch/0256.png" ,1HD Music
+http://s.only4.tv/0256/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="ru-tv" tvg-logo="http://1lot.tv/ch/6516.png" ,RU.TV HD
+http://s.only4.tv/6516/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="russian-musicbox" tvg-logo="http://1lot.tv/ch/6518.png" ,Russian Music Box
+http://s.only4.tv/6518/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="matur-tv" tvg-logo="http://1lot.tv/ch/6531.png" ,Матур ТВ HD
+http://s.only4.tv/6531/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="kbc-nash-rock" tvg-logo="http://1lot.tv/ch/6639.png" ,KBC-Наш Rock
+http://s.only4.tv/6639/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-shlager" tvg-logo="http://1lot.tv/ch/6872.png" ,Bridge TV Шлягер
+http://s.only4.tv/6872/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-rock" tvg-logo="http://1lot.tv/ch/7697.png" ,Bridge TV Rock
+http://s.only4.tv/7697/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="aiva" tvg-logo="http://1lot.tv/ch/6881.png" ,AIVA HD
+http://s.only4.tv/6881/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="viva-rus" tvg-logo="http://1lot.tv/ch/6869.png" ,VIVA TV Russia HD
+http://s.only4.tv/6869/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="yosso-musichits" tvg-logo="http://1lot.tv/ch/7193.png" ,YOSSO TV Music Hits
+http://s.only4.tv/7193/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="no_epg_music" tvg-logo="http://1lot.tv/ch/7591.png" ,Z! Rock HD
+http://s.only4.tv/7591/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="inrating" tvg-logo="http://1lot.tv/ch/7649.png" ,InRating TV
+http://s.only4.tv/7649/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="onemuz" tvg-logo="http://1lot.tv/ch/7651.png" ,Первый Музыкальный HD
+http://s.only4.tv/7651/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="onemuz" tvg-logo="http://1lot.tv/ch/7653.png" ,Первый Музыкальный HD (RU)
+http://s.only4.tv/7653/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="radio-shanson" tvg-logo="http://1lot.tv/ch/7682.png" ,Радио Шансон ТВ HD
+http://s.only4.tv/7682/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="musicbox" tvg-logo="http://1lot.tv/ch/7724.png" ,Music Box Gold
+http://s.only4.tv/7724/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="relax-mm" tvg-logo="http://1lot.tv/ch/7232.png" ,MM Relax HD
+http://s.only4.tv/7232/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="rock-mm" tvg-logo="http://1lot.tv/ch/7130.png" ,MM Rock HD
+http://s.only4.tv/7130/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="nashe-music-hd" tvg-logo="http://1lot.tv/ch/8139.png" ,НАШЕ Music HD
+http://s.only4.tv/8139/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="trace-urban" tvg-logo="http://1lot.tv/ch/8178.png" ,Trace Urban HD
+http://s.only4.tv/8178/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="Russkaja_Popsa" tvg-logo="http://1lot.tv/ch/8272.png" ,VB Русская Попса 80х-90х
+http://s.only4.tv/8272/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="Russian_Dance_Hits_of_90s" tvg-logo="http://1lot.tv/ch/8273.png" ,VB Russian Dance Hits of 90s
+http://s.only4.tv/8273/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="Dance_hits_of_90s" tvg-logo="http://1lot.tv/ch/8274.png" ,VB Dance Hits of 90s
+http://s.only4.tv/8274/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="no_epg_music" tvg-logo="http://1lot.tv/ch/8868.png" ,V2 Beat TV
+http://s.only4.tv/8868/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="now70s" tvg-logo="http://1lot.tv/ch/8872.png" ,NOW 70s
+http://s.only4.tv/8872/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="now80s" tvg-logo="http://1lot.tv/ch/8873.png" ,NOW 80s
+http://s.only4.tv/8873/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="now-rock" tvg-logo="http://1lot.tv/ch/8874.png" ,NOW Rock
+http://s.only4.tv/8874/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="4fun" tvg-logo="http://1lot.tv/ch/8876.png" ,4Fun TV
+http://s.only4.tv/8876/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="no_epg_music" tvg-logo="http://1lot.tv/ch/8880.png" ,m2o TV
+http://s.only4.tv/8880/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="no_epg_music" tvg-logo="http://1lot.tv/ch/8890.png" ,4 You TV
+http://s.only4.tv/8890/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="no_epg_music" tvg-logo="http://1lot.tv/ch/8928.png" ,Muzzik TV
+http://s.only4.tv/8928/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="no_epg_music" tvg-logo="http://1lot.tv/ch/8930.png" ,Muzzik FlashBack 
+http://s.only4.tv/8930/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="no_epg_music" tvg-logo="http://1lot.tv/ch/8933.png" ,Muzzik Mix
+http://s.only4.tv/8933/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="no_epg_music" tvg-logo="http://1lot.tv/ch/8936.png" ,Muzzik TikTak
+http://s.only4.tv/8936/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="box-metall" tvg-logo="http://1lot.tv/ch/8947.png" ,BOX Metall HD
+http://s.only4.tv/8947/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="TVPlayVysotskiy.tv" tvg-logo="http://1lot.tv/ch/9219.png" ,TVPlay Высоцкий HD
+http://s.only4.tv/9219/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Музыка" tvg-id="TVPlayRusskiyRok.tv" tvg-logo="http://1lot.tv/ch/9236.png" ,TVPlay Русский Рок HD
+http://s.only4.tv/9236/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10701.png" ,Music Box HD (UA)
+http://s.only4.tv/10701/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Музыка" tvg-id="yosso-shanson" tvg-logo="http://1lot.tv/ch/10782.png" ,Yosso TV Шансон
+http://s.only4.tv/10782/index.m3u8?token=zoCHqBtVEo
+
+
+#EXTINF:-1 group-title="Казахские" tvg-id="ulytau-kz" tvg-logo="http://1lot.tv/ch/9125.png" ,Ulytau HD [KZ]
+http://s.only4.tv/9125/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Казахские" tvg-id="setanta1-kz" tvg-logo="http://1lot.tv/ch/9126.png" ,Setanta Sports 1 HD [KZ]
+http://s.only4.tv/9126/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Казахские" tvg-id="setanta2-kz" tvg-logo="http://1lot.tv/ch/9127.png" ,Setanta Sports 2 HD [KZ]
+http://s.only4.tv/9127/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Казахские" tvg-id="setanta-kz" tvg-logo="http://1lot.tv/ch/9128.png" ,Setanta Sports KZ HD [KZ]
+http://s.only4.tv/9128/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Казахские" tvg-id="setanta-plus-kz" tvg-logo="http://1lot.tv/ch/10798.png" ,Setanta Sports KZ+ HD [KZ]
+http://s.only4.tv/10798/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Казахские" tvg-id="q-kino-hit" tvg-logo="http://1lot.tv/ch/9130.png" ,Кино Драма HD [KZ]
+http://s.only4.tv/9130/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 group-title="Казахские" tvg-id="q-kino-alem" tvg-logo="http://1lot.tv/ch/9131.png" ,Кино Сериал HD [KZ]
+http://s.only4.tv/9131/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Казахские" tvg-id="tnt-kz" tvg-logo="http://1lot.tv/ch/9137.png" ,ТНТ International HD [KZ]
+http://s.only4.tv/9137/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="Казахские" tvg-id="nick-jr" tvg-logo="http://1lot.tv/ch/9144.png" ,Nick Jr. [KZ]
+http://s.only4.tv/9144/index.m3u8?token=zoCHqBtVEo
 
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="Кино",Кино ТВ
