@@ -3,6 +3,22 @@
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hz1.teleport.cc/HLS/HD.m3u8
 
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Megogo Футбол 1 HD.png" group-title="Спортивные",Megogo Футбол 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31483/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Megogo Футбол 2 HD.png" group-title="Спортивные",Megogo Футбол 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31505/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Megogo Футбол 3 HD.png" group-title="Спортивные",Megogo Футбол 3 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31504/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Megogo Футбол 4 HD.png" group-title="Спортивные",Megogo Футбол 4 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31613/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Megogo Футбол 5 HD.png" group-title="Спортивные",Megogo Футбол 5 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31614/index.m3u8
+
 
 #EXTINF:-1 group-title="Кино БезГраниц" tvg-id="vip-megahit" tvg-logo="http://1lot.tv/ch/17103.png" ,Viju+ Megahit HD
 http://s.only4.tv/17103/index.m3u8?token=zoCHqBtVEo
