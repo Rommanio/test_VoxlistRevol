@@ -3,6 +3,10 @@
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hz1.teleport.cc/HLS/HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://u2.9111s.ru/uploads/202304/04/d220b6253ee45c20bbebc416f4c3468c.jpg" tvg-id="no_epg_cinema" group-title="Кинозалы", Тик Ток
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://fl1001.bozztv.com/ushba61/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Megogo Футбол 1 HD.png" group-title="Спортивные",Megogo Футбол 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31483/index.m3u8
